@@ -1,3 +1,9 @@
+---
+permalink: /publications/
+title: "About MET Norway"
+---
+
+
 Peer reviewed papers published by the team members are listed here:
 
 ## 2022
