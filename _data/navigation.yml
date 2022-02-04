@@ -13,16 +13,16 @@ main:
 page_links:
   - title: Pages
     children:
-    - title: About
-    url: /about/
-    - title: Team
-    url: /team/
-    - title: Projects
-    url: /projects/
+    - title: About WeaMyL
+      url: /about/
+    - title: Dissemination
+      url: /dissemination/
+    - title: Partners/Project teams
+      url: /partners/
+    - title: Nowcasting models
+      url: /models/
     - title: Contact
-    url : /contact/
-    - title: Publications
-    url : /publications/
+      url : /contact/
     - title: Privacy
       url : /privacy/
 
