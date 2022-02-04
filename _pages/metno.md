@@ -9,7 +9,7 @@ The Norwegian Meteorological Institute (MET Norway) is a state agency from Norwa
 ## Rasmus E. Benestad, Head of the department
 <table>
  <tr>
-  <td width="25%" ><center> <img src="/assets/images/bio/Anita_MET_Norway.png"/> </center></td>
+  <td width="25%" ><center> <img src="/assets/images/bio/rasmus_MET_Norway.png"/> </center></td>
   <td align="justify">
  
    Update text here ...<br>
