@@ -1,6 +1,14 @@
 ---
-permalink: /team/
-title: "About MET Norway"
+title: "Team Members"
+layout: splash
+permalink: /
+hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/IMG_3148.JPG
+  caption: "Photo credit: Abdelkader Mezghani"
+excerpt: >
+  Department of Climate and Model Analyses at the Norwegian Meteoroloical Institute
 ---
 
 
