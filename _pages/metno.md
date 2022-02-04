@@ -6,7 +6,6 @@ hidden: true
 toc: true
 toc_label: "Members"
 toc_icon: "cog"
-
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/IMG_3148.JPG
@@ -15,8 +14,7 @@ excerpt: >
   Department of Climate and Model Analyses at the Norwegian Meteoroloical Institute
 ---
 
-
-The Norwegian Meteorological Institute (MET Norway) is a state agency from Norway, a leading international centre of expertise responsible for public meteorological services for civil and military purposes. It forecasts weather, monitors the climate and conducts research. MET Norway is actively involved in the work of the WMO, the European Centre for Medium Range Weather Forecasts, and the European Organization for the Exploitation of Meteorological Satellites (EUMETSAT). MK counts 13 highly qualified leading scientists and researchers. The main research and development activities include climatological research and involve both models and observations. MK/MET Norway has also a long record of participation in regional and EEA/Norway Grant programmes in addition to EU-grants, projects funded by external organisations, and projects funded by the Norwegian Research Council and the Nordic organisation NordForsk.
+MK counts 13 highly qualified leading scientists and researchers. The main research and development activities include climatological research and involve both models and observations. MK/MET Norway has also a long record of participation in regional and EEA/Norway Grant programmes in addition to EU-grants, projects funded by external organisations, and projects funded by the Norwegian Research Council and the Nordic organisation NordForsk.
 
 ## Rasmus E. Benestad, Head of the department
 <table>
