@@ -9,6 +9,7 @@ header:
   caption: "Photo credit: Abdelkader Mezghani"
 excerpt: >
   Department of Climate and Model Analyses at the Norwegian Meteoroloical Institute
+  !! Under construction !!
 ---
 
 MK aims at enhancing the accuracy, performance and reliability of national climate the use of advanced techniques applied on observations. The focus will be on obtaining higher accurancy in predicting climate over Norway and internationally. Thus, it is aimed to be the backbone of a new framework for imminent severe weather detection adapted to current technological possibilities.
