@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Department of Model and Climate Analyses at the Norwegian Meteorological Institute 
 
 You can use the [editor on GitHub](https://github.com/abdelkaderm/mk-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
