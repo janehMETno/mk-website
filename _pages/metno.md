@@ -1,8 +1,12 @@
 ---
 title: "Team Members"
-layout: splash
+layout: single
 permalink: /team/
 hidden: true
+toc: true
+toc_label: "Members"
+toc_icon: "cog"
+
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/IMG_3148.JPG
