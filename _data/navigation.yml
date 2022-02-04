@@ -1,0 +1,35 @@
+main:
+  - title: About
+    url: /about/
+  - title: Dissemination
+    url: /dissemination/
+  - title: Team
+    url: /partners/
+  - title: Downscaling models
+    url: /models/
+  - title: Contact
+    url : /contact/
+  - title: Privacy
+    url : /privacy/
+  
+page_links:
+  - title: Pages
+    children:
+    - title: About WeaMyL
+      url: /about/
+    - title: Dissemination
+      url: /dissemination/
+    - title: Partners/Project teams
+      url: /partners/
+    - title: Nowcasting models
+      url: /models/
+    - title: Contact
+      url : /contact/
+    - title: Privacy
+      url : /privacy/
+
+  - title: External Links
+    children:
+    - title: MET Norway
+      url: https://met.no/
+  
