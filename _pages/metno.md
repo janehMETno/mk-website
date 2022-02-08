@@ -1,8 +1,7 @@
 ---
 title: "Team Members"
-permalink: /team/
+permalink: /
 layout: splash
-permalink: /team/
 hidden: true
 header:
   overlay_color: "#5e616c"
