@@ -1,10 +1,9 @@
 ---
 title: "Team Members"
 permalink: /team/
-layout: single
 hidden: true
 toc: true
-toc_icon: address_card
+toc_icon: address-card
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/IMG_3148.JPG
