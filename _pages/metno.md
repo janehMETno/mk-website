@@ -1,6 +1,5 @@
 ---
 title: "Team Members"
-layout: single
 permalink: /team/
 hidden: true
 toc: true
