@@ -1,15 +1,14 @@
 ---
 title: "Team Members"
 permalink: /team/
-hidden: true
 toc: true
 toc_label: "Members"
-toc_icon: "cog"
+toc_icon: "address-card"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/IMG_3148.JPG
   caption: "Photo credit: Abdelkader Mezghani"
-excerpt: >
+excerpt: > 
   Department of Climate and Model Analyses at the Norwegian Meteoroloical Institute
 ---
 
