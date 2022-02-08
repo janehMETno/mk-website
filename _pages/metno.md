@@ -1,6 +1,6 @@
 ---
 title: "Team Members"
-permalink: /
+permalink: /team/
 layout: splash
 hidden: true
 header:
