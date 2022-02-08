@@ -1,15 +1,6 @@
 ---
 title: "Team Members"
 permalink: /team/
-toc: true
-toc_label: "Members"
-toc_icon: "address-card"
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/IMG_3148.JPG
-  caption: "Photo credit: Abdelkader Mezghani"
-excerpt: > 
-  Department of Climate and Model Analyses at the Norwegian Meteoroloical Institute
 ---
 
 MK counts 13 highly qualified leading scientists and researchers. The main research and development activities include climatological research and involve both models and observations. MK/MET Norway has also a long record of participation in regional and EEA/Norway Grant programmes in addition to EU-grants, projects funded by external organisations, and projects funded by the Norwegian Research Council and the Nordic organisation NordForsk.
