@@ -4,6 +4,7 @@ permalink: /team/
 hidden: true
 toc: true
 toc_icon: address-card
+toc_label: "Members" 
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/IMG_3148.JPG
@@ -18,7 +19,7 @@ MK counts 13 highly qualified leading scientists and researchers. The main resea
 ## Rasmus E. Benestad, Head of the department
 <table>
  <tr>
-  <td width="25%" ><center> <img src="/assets/images/bio/rasmus_MET_Norway.png"/> </center></td>
+  <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/rasmus_MET_Norway.png"/> </center></td>
   <td align="justify">
  
    Update text here ...<br>
@@ -32,7 +33,7 @@ MK counts 13 highly qualified leading scientists and researchers. The main resea
 ## Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
 <table>
  <tr>
-  <td width="25%" ><center> <img src="/assets/images/bio/Anita_MET_Norway.png"/> </center></td>
+  <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/Anita_MET_Norway.png"/> </center></td>
   <td align="justify">
  Dr. Anita Verpe Dyrrdal is a senior scientist at the Climate and Model Analyses Group and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -54,7 +55,7 @@ MK counts 13 highly qualified leading scientists and researchers. The main resea
 ## Kajsa Maria Parding, Young Sceintist
 <table>
  <tr>
-  <td width="25%" ><center> <img src="/assets/images/bio/kajsa_MET_Norway.png"/> </center></td>
+  <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/kajsa_MET_Norway.png"/> </center></td>
   <td align="justify">
  Dr. Kajsa Maria Parding is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include downscaling of weather and climate information, statistical analyses, modeling of temperature and precipitation, and storm track analyses.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -65,7 +66,7 @@ MK counts 13 highly qualified leading scientists and researchers. The main resea
 ## Helena Birkeland Erlandsen, Young Scientist
 <table>
  <tr>
-  <td width="25%" ><center> <img src="/assets/images/bio/helene_MET_Norway.png"/> </center></td>
+  <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/helene_MET_Norway.png"/> </center></td>
   <td align="justify">
  Dr. Helena Birkeland Erlandsen is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include: hybrid-downscaling of temperature and precipitation. <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -74,4 +75,4 @@ MK counts 13 highly qualified leading scientists and researchers. The main resea
  </table>
 
 
-<img src="/assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>
+<img src="https://metno.github.io/mk-website/assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>
