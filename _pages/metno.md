@@ -46,7 +46,7 @@ MK counts 13 highly qualified leading scientists and researchers. The main resea
   <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/abdelkader_metno.jpg"/> </center></td>
   <td align="justify">
  Dr. Abdelkader Mezghani is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His main interests include downscaling of weather and climate information, statistical analyses, programming and web developments, modeling of temperature and precipitation, Big data, Neural networks.<br>
- <a href="https://orcid.org/0000-0003-2825-5884"> ORCID </a>;<a href="https://no.linkedin.com/in/abdelkader-mezghani-8a3aa127"> LinkedIn Profile </a>; <a href="https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en"> Google Scholars </a>
+ <a href="https://orcid.org/0000-0003-2825-5884"> ORCID </a>;<a href="https://no.linkedin.com/in/abdelkader-mezghani-8a3aa127"> LinkedIn Profile </a>; <a href="https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en"> Google Scholars </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764228"> Cristin </a> 
  </td>
  </tr>
  </table>
