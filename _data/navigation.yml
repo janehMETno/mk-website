@@ -1,5 +1,5 @@
 main:
-  - title: About
+  - title: About us
     url: /about/
   - title: Team
     url: /team/
@@ -13,16 +13,18 @@ main:
 page_links:
   - title: Pages
     children:
-    - title: About WeaMyL
+    - title: About us
       url: /about/
-    - title: Dissemination
-      url: /dissemination/
-    - title: Partners/Project teams
-      url: /partners/
-    - title: Nowcasting models
-      url: /models/
+    - title: Projects
+      url: /projects/
+    - title: Team
+      url: /team/
+    - title: Research activities
+      url: /research/
     - title: Contact
       url : /contact/
+    - title: Publications
+      url : /publications/
     - title: Privacy
       url : /privacy/
 
@@ -30,4 +32,8 @@ page_links:
     children:
     - title: MET Norway
       url: https://met.no/
+    - title : Cryo MET
+      url : https://cryo.met.no
+    - title : Open Climate Data Prototype
+      url : https://ocdp.met.no
   
