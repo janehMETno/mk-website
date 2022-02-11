@@ -30,8 +30,12 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "DECM"
+    excerpt: "Data Evaluation for Climate Models"
+    alt: "placeholder image 2"
+    url: "https://climate.copernicus.eu/data-evaluation-climate-models"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
