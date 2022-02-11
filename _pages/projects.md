@@ -37,10 +37,10 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: "https://www.nve.no/hydrology/indice-project/"
     alt: "placeholder image 2"
-    title: "DECM"
-    excerpt: 'Data Evaluation for Climate Models `type="left"`'
+    title: "INDICE"
+    excerpt: "The response of the hydrological system in India to climate change (INDICE) was a project from 2012 to 2016 funded by the Norwegian Research Council."
     url: "https://climate.copernicus.eu/data-evaluation-climate-models"
     btn_label: "Read More"
     btn_class: "btn--primary"
