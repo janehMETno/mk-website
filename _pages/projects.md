@@ -29,7 +29,7 @@ feature_row:
     url: "https://www.nve.no/hydrology/indice-project/"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: https://decm.copernicus-climate.eu/DECM_dashboard.png
     title: "DECM"
     excerpt: "Data Evaluation for Climate Models"
     alt: "placeholder image 2"
