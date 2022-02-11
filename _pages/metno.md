@@ -22,7 +22,7 @@ MK counts 13 highly qualified leading scientists and researchers. The main resea
   <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/rasmus_MET_Norway.png"/> </center></td>
   <td align="justify">
  
-   Update text here ...<br>
+  Test<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
