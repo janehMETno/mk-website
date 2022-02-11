@@ -15,7 +15,7 @@ excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef 
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: <img src = "http://serwer1557491.home.pl/autoinstalator/wordpress/wp-content/uploads/2015/09/cropped-strona-logo_2.jpg">
+  - image_path: http://serwer1557491.home.pl/autoinstalator/wordpress/wp-content/uploads/2015/09/cropped-strona-logo_2.jpg
     alt: "placeholder image 1"
     title: "CHASE-PL"
     excerpt: "Climate change impact assessment for selected sectors in Poland"
