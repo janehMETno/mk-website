@@ -19,17 +19,16 @@ feature_row:
     alt: "placeholder image 1"
     title: "CHASE-PL"
     excerpt: "Climate change impact assessment for selected sectors in Poland"
-    url: "https://github.com/metno/mk-website/blob/gh-pages/_pages/about.md"
+    url: "http://www.chase-pl.pl/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+  - image_path: https://www.nve.no/Media/3454/indice-logo.jpg?width=201&height=168
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "INDICE"
+    excerpt: "The response of the hydrological system in India to climate change (INDICE) was a project from 2012 to 2016 funded by the Norwegian Research Council."
+    url: "https://www.nve.no/hydrology/indice-project/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
