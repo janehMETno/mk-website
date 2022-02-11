@@ -28,8 +28,6 @@ MK counts 13 highly qualified leading scientists and researchers. The main resea
  </tr>
  </table>
 
-
-
 ## Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
 <table>
  <tr>
@@ -37,6 +35,30 @@ MK counts 13 highly qualified leading scientists and researchers. The main resea
   <td align="justify">
  Dr. Anita Verpe Dyrrdal is a senior scientist at the Climate and Model Analyses Group and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ </td>
+ </tr>
+ </table>
+
+## Andreas Dobler, Senior Scientist
+<table>
+ <tr>
+  <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/andreas.jpeg"/> </center></td>
+  <td align="justify">
+ 
+  Dr. Andreas Dobler is a ...<br>
+ <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764212"> Cristin </a>
+ </td>
+ </tr>
+ </table>
+
+## Julia Lutz, Young Research Scientist
+<table>
+ <tr>
+  <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/julia.jpeg"/> </center></td>
+  <td align="justify">
+ 
+  Dr. Julia Lutz is a ...<br>
+ <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=1081908"> Cristin </a>
  </td>
  </tr>
  </table>
@@ -63,6 +85,19 @@ MK counts 13 highly qualified leading scientists and researchers. The main resea
  </tr>
  </table>
 
+## Ketil Isaksen, Senior Scientist
+<table>
+ <tr>
+  <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/ketil.jpeg"/> </center></td>
+  <td align="justify">
+ 
+  Dr. Ketil Isaksen is a senior scientist ...<br>
+ <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764197"> Cristin </a>
+ </td>
+ </tr>
+ </table>
+
+
 ## Helena Birkeland Erlandsen, Young Scientist
 <table>
  <tr>
@@ -74,5 +109,28 @@ MK counts 13 highly qualified leading scientists and researchers. The main resea
  </tr>
  </table>
 
+## Jan Erik Haugen, Senior Scientist and Assistant Director
+<table>
+ <tr>
+  <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/ketil.jpeg"/> </center></td>
+  <td align="justify">
+ 
+  Dr. Jan Erik Haugen is a senior scientist and assistant director ...<br>
+ <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764220"> Cristin </a>
+ </td>
+ </tr>
+ </table>
+
+## Øyvind Nordli, Researcher
+<table>
+ <tr>
+  <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/oyvind.jpeg"/> </center></td>
+  <td align="justify">
+ 
+  Dr. Øyvind Nordli is ...<br>
+ <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764232"> Cristin </a>
+ </td>
+ </tr>
+ </table>
 
 <img src="https://metno.github.io/mk-website/assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>
