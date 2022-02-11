@@ -37,7 +37,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: "https://www.nve.no/hydrology/indice-project/"
+  - image_path: https://www.nve.no/Media/3454/indice-logo.jpg?width=201&height=168
     alt: "placeholder image 2"
     title: "INDICE"
     excerpt: "The response of the hydrological system in India to climate change (INDICE) was a project from 2012 to 2016 funded by the Norwegian Research Council."
