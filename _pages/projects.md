@@ -44,14 +44,14 @@ feature_row2:
     url: "https://climate.copernicus.eu/data-evaluation-climate-models"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    - image_path: http://serwer1557491.home.pl/autoinstalator/wordpress/wp-content/uploads/2015/09/cropped-strona-logo_2.jpg
+  - image_path: http://serwer1557491.home.pl/autoinstalator/wordpress/wp-content/uploads/2015/09/cropped-strona-logo_2.jpg
     alt: "placeholder image 2"
     title: "CHASE-PL"
     excerpt: "Climate change impact assessment for selected sectors in Poland"
     url: "http://www.chase-pl.pl/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-     - image_path: https://decm.copernicus-climate.eu/DECM_dashboard.png
+  - image_path: https://decm.copernicus-climate.eu/DECM_dashboard.png
     title: "DECM"
     excerpt: "Data Evaluation for Climate Models"
     alt: "placeholder image 2"
