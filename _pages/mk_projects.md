@@ -31,7 +31,7 @@ The divison of Model and Climate Analyses has been involved in several national,
 ## Empirical Statistical Downscaling
 <table>
  <tr>
-  <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/Anita_MET_Norway.png"/> </center></td>
+  <td width="25%" ><center> <img src=""/> </center></td>
   <td align="justify">
  Empirical-statistical downscaling/extremely simple data (ESD, 2012-present). An analytical tool for analysing and visualising climate data for station data as well as gridded model results. Designed to be flexible, intuitive, and efficient. It is based on the R-environment, and consists of an R-package that comes with code, documentation and help pages. The source code is free of access and is available at Github repository. It is supported by Rmarkdown scripts which is a tool for documenting work done within R and R-shiny which is a web-based tool for making apps running R. All these tools work seamlessly with Rstudio.
 <br>
@@ -40,39 +40,50 @@ The divison of Model and Climate Analyses has been involved in several national,
  </tr>
  </table>
 
-## CORDEX
+## Coordinated Regional Downscaling Experiment
 <table>
  <tr>
   <td width="25%" ><center> <img src="https://cordex.org/wp-content/themes/rt_callisto/custom/images/CORDEX_Variant%202_eeva%20-%20whiteCordexLine2Africa.png"/> </center></td>
   <td align="justify">
-The Coordinated Regional Downscaling Experiment within the World Climate Research Programme (CORDEX, ongoing). This ongoing European collaboration aims at advancing and coordinating the science and application of regional climate downscaling through global partnerships. My main contribution has been in the implementation of the new CORDEX-ESD branch dealing with integrating statistical downscaling approaches in the general framework. 
+The CORDEX experiment within the World Climate Research Programme (CORDEX, ongoing). This ongoing European collaboration aims at advancing and coordinating the science and application of regional climate downscaling through global partnerships. My main contribution has been in the implementation of the new CORDEX-ESD branch dealing with integrating statistical downscaling approaches in the general framework. 
 <br>
  <a href="http://www.cordex.org/"> Website </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
  </table>
 
-## CORDEX
+## Data Evaluation for Climate Models (DECM, 2016-2019)
 <table>
  <tr>
   <td width="25%" ><center> <img src="https://decm.copernicus-climate.eu/DECM_dashboard.png"/> </center></td>
   <td align="justify">
-Data Evaluation for Climate Models (DECM, 2016-2019). This project aims at assessing user requirements, science and gaps in climate model data delivery concerning CMIP and Euro-CORDEX data. It focuses strongly on user requirements, data inventory and scientific assessment and gap analysis to get a strong view of user-friendly and fit-for-purpose key performance indicators, tools and service to be recommended for the Evaluation and Quality Control framework. My main contribution was in the development of a prototype based on a web application to evaluate (global and regional) climate models and demonstrate the added value to the 3CS COPERNICUS programme through a two-way engagement process with users and stakeholders. https://climate.copernicus.eu/data-evaluation-climate-models
-<br>
+This project aims at assessing user requirements, science and gaps in climate model data delivery concerning CMIP and Euro-CORDEX data. It focuses strongly on user requirements, data inventory and scientific assessment and gap analysis to get a strong view of user-friendly and fit-for-purpose key performance indicators, tools and service to be recommended for the Evaluation and Quality Control framework. My main contribution was in the development of a prototype based on a web application to evaluate (global and regional) climate models and demonstrate the added value to the 3CS COPERNICUS programme through a two-way engagement process with users and stakeholders.<br>
  <a href="https://climate.copernicus.eu/data-evaluation-climate-models"> Website </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
  </table>
 
+## A pan European framework for strengthening critical infrastructure resilience for climate change (EU-CIRCLE,  2015-2018)
+ <tr>
+  <td width="10%" ><center> <img src="https://www.eu-circle.eu/wp-content/uploads/2016/05/logo_400x400.jpg"/> </center></td>
+  <td align="justify">
+  This project aims to derive an innovative framework for supporting the interconnected European Infrastructure’s resilience to climate pressures, supported by an end-to-end modelling environment along with new analyses were developed to understand interdependencies, validate results, and describe findings by integrating resilience model, existing modelling tools, and data in a standardised manner.<br>  
+ <a href="www.eu-circle.eu/"> Website </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ </td>
+ </tr>
+ </table>
 
+## Seasonal-to-decadal climate Prediction for the improvement of European Climate Services (SPECS, 2012-2016)
+ <tr>
+  <td width="25%" ><center> <img src="http://www.specs-fp7.eu/sites/default/files/320px-SPECS_Logo_transparent_v12_0.png"/> </center></td>
+  <td align="justify">
+  The main objective is to improve understanding and provide seamless predictions of the future frequency of high-impact, extreme climatic events, along with prediction uncertainty. <br>
+ <a href="http://www.specs-fp7.eu/"> Website </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ </td>
+ </tr>
+ </table>
 
-Research experience
-
-Horizon 2020 programmes on European Union's Research and Innovation within the Copernicus Climate Change Services 3S - Data 
-
-EU-FP7 programmes on European Union's Research and Innovation
-A pan European framework for strengthening critical infrastructure resilience for climate change (EU-CIRCLE,  2015-2018). This project aims to derive an innovative framework for supporting the interconnected European Infrastructure’s resilience to climate pressures, supported by an end-to-end modelling environment along with new analyses were developed to understand interdependencies, validate results, and describe findings by integrating resilience model, existing modelling tools, and data in a standardised manner. Web link at www.eu-circle.eu/.
-Seasonal-to-decadal climate Prediction for the improvement of European Climate Services (SPECS, 2012-2016). The main objective is to improve understanding and provide seamless predictions of the future frequency of high-impact, extreme climatic events, along with prediction uncertainty. http://www.specs-fp7.eu/
+. 
 EEA/Norway Grants 2014-17 Research cooperation programme
 Climate change impact assessment for selected sectors in Poland (CHASE-PL, 2014-2017). This project aims at contributing to the improvement of understanding of climate change in Poland and its impacts on selected sectors in the country. It extended in numerous ways the state-of-the-art of the detection of change, projections of climate change and its impacts on water management, ecosystems and biodiversity, agriculture and food production. http://chase-pl.pl/, MET Norway leader.
 COST Action programme
