@@ -33,7 +33,7 @@ The model and climate analyses group involves highly qualified leading scientist
  <tr>
   <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/Anita_MET_Norway.png"/> </center></td>
   <td align="justify">
- Dr. Anita Verpe Dyrrdal is a senior scientist at the Climate and Model Analyses Group and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.<br>
+ Dr. Anita Verpe Dyrrdal is a senior scientist at the Division for Climate and Model Analyses at the Norwegian Meteorological Institute and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.<br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
@@ -57,7 +57,7 @@ The model and climate analyses group involves highly qualified leading scientist
   <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/julia.jpeg"/> </center></td>
   <td align="justify">
  
-  Dr. Julia Lutz is a is employed at the division for model and climate analysis at the Norwegian Meteorological Institute in Oslo. Her main interests include statistical climate modelling and climate analysis.<br>
+  Dr. Julia Lutz is a young scientist at the division for model and climate analysis at the Norwegian Meteorological Institute in Oslo. Her main interests include statistical climate modelling and climate analysis.<br>
  <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=1081908"> Cristin </a>
  </td>
  </tr>
