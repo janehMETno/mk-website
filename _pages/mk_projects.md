@@ -10,22 +10,8 @@ header:
   caption: "Photo credit: Abdelkader Mezghani"
 excerpt: >
   The divison for Climate and Model Analyses has also a long record of participation in regional and EEA/Norway Grant programmes in addition to EU-grants, projects funded by external organisations, and projects funded by the Norwegian Research Council and the Nordic organisation NordForsk.
-  !! Under construction !!
+ 
 ---
-
-The divison of Model and Climate Analyses has been involved in several national, european, and international projects. These are listed below
-
-## INDICE 
-<table>
- <tr>
-  <td width="25%" ><center> <img src="https://www.nve.no/Media/3454/indice-logo.jpg?width=201&height=168"/> </center></td>
-  <td align="justify">
- The response of the hydrological system in India to climate change (INDICE) was a project from 2012 to 2016 funded by the Norwegian Research Council within the INDNOR program.
-  <br>
- <a href="https://orcid.org/0000-0002-5969-4508"> ORCID </a>;<a href="https://docs.google.com/document/d/14Vnfk0DuEwSPCJgnTAwzx1woqk4TWoivlrS7tBFU2SA/edit?usp=sharing"> CV </a>; <a href="https://scholar.google.com/citations?user=KYAUZL4AAAAJ&hl=no"> Google Scholar </a>; <a href="https://app.cristin.no/search.jsf?t=%22Rasmus%20Benestad%22"> Cristin </a>
- </td>
- </tr>
- </table>
 
 ## ESD, On-going
 <table>
@@ -50,6 +36,20 @@ The Coordinated Regional Downscaling Experiment within the World Climate Researc
  </td>
  </tr>
  </table>
+
+## INDICE (2012-2016)
+<table>
+ <tr>
+  <td width="25%" ><center> <img src="https://www.nve.no/Media/3454/indice-logo.jpg?width=201&height=168"/> </center></td>
+  <td align="justify">
+ The response of the hydrological system in India to climate change (INDICE) was funded by the Norwegian Research Council within the INDNOR program.
+  <br>
+ <a href="https://orcid.org/0000-0002-5969-4508"> ORCID </a>;<a href="https://docs.google.com/document/d/14Vnfk0DuEwSPCJgnTAwzx1woqk4TWoivlrS7tBFU2SA/edit?usp=sharing"> CV </a>; <a href="https://scholar.google.com/citations?user=KYAUZL4AAAAJ&hl=no"> Google Scholar </a>; <a href="https://app.cristin.no/search.jsf?t=%22Rasmus%20Benestad%22"> Cristin </a>
+ </td>
+ </tr>
+ </table>
+
+
 
 ## DECM, 2016-2019
 <table>
