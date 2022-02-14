@@ -57,7 +57,7 @@ The model and climate analyses group involves highly qualified leading scientist
   <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/julia.jpeg"/> </center></td>
   <td align="justify">
  
-  Dr. Julia Lutz is a ...<br>
+  Dr. Julia Lutz is a is employed at the division for model and climate analysis at the Norwegian Meteorological Institute in Oslo. Her main interests include statistical climate modelling and climate analysis.<br>
  <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=1081908"> Cristin </a>
  </td>
  </tr>
@@ -91,8 +91,9 @@ The model and climate analyses group involves highly qualified leading scientist
   <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/ketil.jpeg"/> </center></td>
   <td align="justify">
  
-  Dr. Ketil Isaksen is a senior scientist ...<br>
- <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764197"> Cristin </a>
+  Dr. Ketil Isaksen is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His primary area of interest and expertise are related to permafrost and climatology, including permafrost thermal response and sensitivity to climate change and extreme events, the application of long-term monitoring and geophysical methods in frozen ground, physical processes in the cryosphere and climate change and variability in mountain regions and in the Arctic.<br>
+ Email: ketil.isaksen@met.no
+ <a href="https://orcid.org/0000-0003-2356-5330"> ORCID </a>;<a href=""> CV </a>; <a href="https://scholar.google.no/citations?user=m-l6ggIAAAAJ&hl=en"> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764197"> Cristin </a>
  </td>
  </tr>
  </table>
