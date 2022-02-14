@@ -74,7 +74,7 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-display:grid 
+entries_layout: grid
 ---
 
 {% include feature_row id="intro" type="center" %}
