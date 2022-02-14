@@ -113,10 +113,10 @@ The model and climate analyses group involves highly qualified leading scientist
 ## Jan Erik Haugen, Senior Scientist and Assistant Director
 <table>
  <tr>
-  <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/ketil.jpeg"/> </center></td>
+  <td width="25%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/janerik.jpeg"/> </center></td>
   <td align="justify">
  
-  Dr. Jan Erik Haugen is a senior scientist and assistant director ...<br>
+  Dr. Jan Erik Haugen is a senior scientist and assistant director of the division for Climate and Model Analyses at the Norwegian Meteorological Insitute. ...<br>
  <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764220"> Cristin </a>
  </td>
  </tr>
