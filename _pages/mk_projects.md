@@ -2,6 +2,7 @@
 title: "Research Projects"
 permalink: /project/
 hidden: true
+toc : false
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/IMG_3148.JPG
