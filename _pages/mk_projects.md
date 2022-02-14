@@ -2,9 +2,6 @@
 title: "Research Projects"
 permalink: /project/
 hidden: true
-toc: true
-toc_icon: address-card
-toc_label: "List" 
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/IMG_3148.JPG
