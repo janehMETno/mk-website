@@ -4,7 +4,7 @@ main:
   - title: Team
     url: /team/
   - title: Projects
-    url: /projects/
+    url: /project/
   - title: Contact
     url : /contact/
   - title: Publications
