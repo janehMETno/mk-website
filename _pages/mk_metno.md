@@ -2,6 +2,7 @@
 title: "Team Members"
 permalink: /team/
 hidden: true
+toc : false
 classes : wide
 header:
   overlay_color: "#5e616c"
