@@ -23,7 +23,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <tr>
    <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/rasmus2.jpeg"/></center></td> 
    <td align="justify" valign="top" style ="border: none;">
-     <font size="3"> <strong> Rasmus E. Benestad, <em>Ph. D. in Physics</em> </strong><br>
+     <font size="3"> <strong> Rasmus E. Benestad, <em>Ph. D. in Physics</em> </strong><br><br>
        Dr. Benestad is a senior scientist and head of the Divison for Model and Climate analysis who's work involves climate change, climate variability and methods for empirical-statistical downscaling (regional climate modelling). He has also been involved with outreach, climate science communication and national as well as international collaborations. World Climate Research Programme's <a href="https://cordex.org/domains/cordex-esd/">CORDEX</a>, the European Climate Research Alliance (<a href="http://www.ecra-climate.eu/about-us/executive-committee">ECRA</a>), the European Meteorological Society (<a href="https://www.emetsoc.org/about-ems/project-teams-committees/media-and-communication/">EMS</a>), and the Arctic Monitoring and Assessment Programme (<a href="https://www.amap.no/">AMAP</a>).</font><br><br>
      <strong> Useful links</strong><br>
      <a href=""> rasmusb@met.no </a>;<a href="https://orcid.org/0000-0002-5969-4508"> ORCID </a>;<a href="https://docs.google.com/document/d/14Vnfk0DuEwSPCJgnTAwzx1woqk4TWoivlrS7tBFU2SA/edit?usp=sharing"> CV </a>; <a href="https://scholar.google.com/citations?user=KYAUZL4AAAAJ&hl=no"> Google Scholar </a>; <a href="https://app.cristin.no/search.jsf?t=%22Rasmus%20Benestad%22"> Cristin </a> 
@@ -38,8 +38,8 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 <table>
  <tr>
   <td align="justify" style ="border: none;">
-  <font size = "3"> <strong> Jan Erik Haugen, <em>Ph. D. in Physics</em> </strong><br>
-    Dr. Haugen is a senior scientist and assistant director of the division for Climate and Model Analyses at the Norwegian Meteorological Insitute. ... </font><br>
+  <font size = "3"> <strong> Jan Erik Haugen, <em>Ph. D. in Physics</em> </strong><br><br>
+    Dr. Haugen is a senior scientist and assistant director of the division for Climate and Model Analyses at the Norwegian Meteorological Insitute. ... </font><br><br>
  <strong> Useful links</strong><br>
     <a href=""> Email:janeh@met.no </a>; <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764220"> Cristin </a>
  </td>
@@ -55,8 +55,8 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <tr>
  <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/Anita_MET_Norway.png"/> </center></td> 
    <td align="justify" valign="top" style ="border: none;">
-    <font size="3"> <strong> Anita Verpe Dyrrdal, <em>Ph. D. in Meteorology</em> </strong><br>
-      Dr. Dyrrdal is a senior scientist at the Division for Climate and Model Analyses at the Norwegian Meteorological Institute and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.</font><br>
+    <font size="3"> <strong> Anita Verpe Dyrrdal, <em>Ph. D. in Meteorology</em> </strong><br><br>
+      Dr. Dyrrdal is a senior scientist at the Division for Climate and Model Analyses at the Norwegian Meteorological Institute and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.</font><br><br>
  <strong> Useful links</strong><br>
      <a href = ""> Email: anitavd@met.no </a>;<a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>;>a href="https://klimaservicesenter.no/"> KSS </a>
  </td>
@@ -72,8 +72,8 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <tr>
   <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/andreas.jpeg"/> </center></td>
   <td align="justify" style ="border: none;">
-  <font size="3"> <strong> Andreas Dobler, <em>Ph. D. in computer Science</em> </strong><br>
-    Dr. Dobler is a senior scientist ...</font><br>
+  <font size="3"> <strong> Andreas Dobler, <em>Ph. D. in computer Science</em> </strong><br><br>
+    Dr. Dobler is a senior scientist ...</font><br><br>
     <strong> Useful links</strong><br>
     <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764212"> Cristin </a>
  </td>
@@ -87,8 +87,8 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <tr>
   <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/julia.jpeg"/> </center></td>
   <td align="justify" style ="border: none;">
-    <font size="3"> <strong> Julia Lutz</strong>, <em>Ph. D. in !!!</em><br> 
-    Dr. Julia Lutz is a young scientist at the division for model and climate analysis at the Norwegian Meteorological Institute in Oslo. Her main interests include statistical climate modelling and climate analysis.</font><br> 
+    <font size="3"> <strong> Julia Lutz</strong>, <em>Ph. D. in !!!</em><br><br>
+    Dr. Julia Lutz is a young scientist at the division for model and climate analysis at the Norwegian Meteorological Institute in Oslo. Her main interests include statistical climate modelling and climate analysis.</font><br><br>
     <strong> Useful links</strong><br>
     <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=1081908"> Cristin </a>
  </td>
@@ -101,8 +101,8 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 <table>
  <tr>
   <td align="justify" style ="border: none;">
- <font size = "3"> <strong> Abdelkader Mezghani,</strong><em>Ph. D. in Environmental Sciences </em><br>
-   Dr. Mezghani is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His main interests include downscaling of weather and climate information, statistical analyses, programming and web developments, modeling of temperature and precipitation, Big data, Neural networks. </font><br>
+ <font size = "3"> <strong> Abdelkader Mezghani,</strong><em>Ph. D. in Environmental Sciences </em><br><br>
+   Dr. Mezghani is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His main interests include downscaling of weather and climate information, statistical analyses, programming and web developments, modeling of temperature and precipitation, Big data, Neural networks. </font><br><br>
  <strong> Useful links</strong><br>
  <a href="https://orcid.org/0000-0003-2825-5884"> ORCID </a>;<a href="https://no.linkedin.com/in/abdelkader-mezghani-8a3aa127"> LinkedIn Profile </a>; <a href="https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en"> Google Scholars </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764228"> Cristin    </a> 
  </td>
@@ -118,8 +118,8 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <tr>
  <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/kajsa_MET_Norway.png"/> </center></td>
  <td align="justify" style ="border: none;">
- <font size = 3> <strong> Kajsa Maria Parding </strong><em>Ph. D. in ? </em><br>
-   Dr. Parding is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include downscaling of weather and climate information, statistical analyses, modeling of temperature and precipitation, and storm track analyses.</font><br>
+ <font size = 3> <strong> Kajsa Maria Parding </strong><em>Ph. D. in ? </em><br><br>
+   Dr. Parding is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include downscaling of weather and climate information, statistical analyses, modeling of temperature and precipitation, and storm track analyses.</font><br><br>
    <strong> Useful links</strong><br>
    <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
@@ -134,8 +134,8 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 <table>
  <tr>
   <td align="justify" style ="border: none;">
-  <font size = "3"><strong> Ketil Isaksen </strong> <em>Ph. D. in ? </em><br>
-    Dr. Isaksen is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His primary area of interest and expertise are related to permafrost and climatology, including permafrost thermal response and sensitivity to climate change and extreme events, the application of long-term monitoring and geophysical methods in frozen ground, physical processes in the cryosphere and climate change and variability in mountain regions and in the Arctic.</font><br>
+  <font size = "3"><strong> Ketil Isaksen </strong> <em>Ph. D. in ? </em><br><br>
+    Dr. Isaksen is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His primary area of interest and expertise are related to permafrost and climatology, including permafrost thermal response and sensitivity to climate change and extreme events, the application of long-term monitoring and geophysical methods in frozen ground, physical processes in the cryosphere and climate change and variability in mountain regions and in the Arctic.</font><br><br>
  <strong> Useful links</strong><br>
     Email: ketil.isaksen@met.no; <a href="https://orcid.org/0000-0003-2356-5330"> ORCID </a>;<a href=""> CV </a>; <a href="https://scholar.google.no/citations?user=m-l6ggIAAAAJ&hl=en"> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764197"> Cristin </a>
  </td>
@@ -151,8 +151,8 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <tr>
   <td width="30%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/helene_MET_Norway.png"/> </center></td>
   <td align="justify" style ="border: none;">
- <font size = "4"><strong> Helena Birkeland Erlandsen </strong> <em>Ph. D. in ? </em><br>
-   Dr. Birkeland-Erlandsen is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include: hybrid-downscaling of temperature and precipitation.</font> <br>
+ <font size = "4"><strong> Helena Birkeland Erlandsen </strong> <em>Ph. D. in ? </em><br><br>
+   Dr. Birkeland-Erlandsen is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include: hybrid-downscaling of temperature and precipitation.</font> <br><br>
   <strong> Useful links</strong><br>
     <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
@@ -166,8 +166,8 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 <table>
  <tr>
   <td align="justify" style ="border: none;">
-  <font size = "4"> <strong> Øyvind Nordli </strong> <em>Ph. D. in ? </em><br>
-    Dr. Nordli is ...</font><br>
+  <font size = "4"> <strong> Øyvind Nordli </strong> <em>Ph. D. in ? </em><br><br>
+    Dr. Nordli is ...</font><br><br>
    <strong> Useful links</strong><br>
     <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764232"> Cristin </a>
  </td>
