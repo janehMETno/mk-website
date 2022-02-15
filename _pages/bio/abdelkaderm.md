@@ -1,5 +1,5 @@
 ---
-title: "Abdelkader Mezghani"
+title: "Dr. Abdelkader Mezghani"
 permalink: /abdelkaderm/
 hidden: true
 toc: false
@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/IMG_3148.JPG
   caption: "Photo credit: Abdelkader Mezghani"
   classes: wide
-excerpt: Dr. Abdelkader Mezghani, Ph. D. in Environmental Sciences,   
+excerpt: Senior Scientist   
          Norwegian Meteorological Institute
 
 ---
