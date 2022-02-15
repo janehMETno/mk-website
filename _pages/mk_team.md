@@ -56,7 +56,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
    <td align="justify" valign="top" style ="border: none;">
     <font size="3"> Dr. Anita Verpe Dyrrdal is a senior scientist at the Division for Climate and Model Analyses at the Norwegian Meteorological Institute and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.</font><br>
  <strong> Useful links</strong><br>
-     <a href = ""> Email: anitavd@met.no </a>;<a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+     <a href = ""> Email: anitavd@met.no </a>;<a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>;>a href="https://klimaservicesenter.no/"> KSS </a>
  </td>
  </tr>
  </table>
