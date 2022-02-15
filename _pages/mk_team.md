@@ -182,7 +182,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
    <strong> Useful links</strong><br>
     <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764232"> Cristin </a>
  </td>
- <td width="30%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/oyvind.jpeg"/> </center></td>
+ <td width="30%" ><center> <img src="https://www.mn.uio.no/geo/forskning/aktuelt/arrangementer/disputaser/2019/pdf/oskar-landgren-500px.jpg"/> </center></td>
   </tr>
  </table>
 {: .notice--primary}
