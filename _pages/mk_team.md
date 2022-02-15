@@ -38,7 +38,8 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 <table>
  <tr>
   <td align="justify" style ="border: none;">
-  <font size = "3"> Dr. Jan Erik Haugen is a senior scientist and assistant director of the division for Climate and Model Analyses at the Norwegian Meteorological Insitute. ... </font><br>
+  <font size = "3"> <strong> Jan Erik Haugen, <em>Ph. D. in Physics</em> </strong><br>
+    Dr. Haugen is a senior scientist and assistant director of the division for Climate and Model Analyses at the Norwegian Meteorological Insitute. ... </font><br>
  <strong> Useful links</strong><br>
     <a href=""> Email:janeh@met.no </a>; <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764220"> Cristin </a>
  </td>
@@ -49,12 +50,13 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 
 ---
 
-## Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
+## Head of the Norwegian Climate Service Centre
 <table>
  <tr>
  <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/Anita_MET_Norway.png"/> </center></td> 
    <td align="justify" valign="top" style ="border: none;">
-    <font size="3"> Dr. Anita Verpe Dyrrdal is a senior scientist at the Division for Climate and Model Analyses at the Norwegian Meteorological Institute and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.</font><br>
+    <font size="3"> <strong> Anita Verpe Dyrrdal, <em>Ph. D. in Meteorology</em> </strong><br>
+      Dr. Dyrrdal is a senior scientist at the Division for Climate and Model Analyses at the Norwegian Meteorological Institute and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.</font><br>
  <strong> Useful links</strong><br>
      <a href = ""> Email: anitavd@met.no </a>;<a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>;>a href="https://klimaservicesenter.no/"> KSS </a>
  </td>
@@ -64,12 +66,14 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 
 ---
 
-## Andreas Dobler, Senior Scientist
+## Collaborators
+
 <table>
  <tr>
   <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/andreas.jpeg"/> </center></td>
   <td align="justify" style ="border: none;">
-  <font size="3"> Dr. Andreas Dobler is a ...</font><br>
+  <font size="3"> <strong> Andreas Dobler, <em>Ph. D. in computer Science</em> </strong><br>
+    Dr. Dobler is a ...</font><br>
  <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764212"> Cristin </a>
  </td>
  </tr>
