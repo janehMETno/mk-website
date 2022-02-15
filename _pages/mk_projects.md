@@ -11,6 +11,8 @@ excerpt: The divison for Climate and Model Analyses has also a long record of pa
 
 ---
 
+The team has been involved in several national and international collaborations such as the World Climate Research Programme's <a href="https://cordex.org/domains/cordex-esd/">CORDEX</a>, the European Climate Research Alliance (<a href="http://www.ecra-climate.eu/about-us/executive-committee">ECRA</a>), the European Meteorological Society (<a href="https://www.emetsoc.org/about-ems/project-teams-committees/media-and-communication/">EMS</a>), and the Arctic Monitoring and Assessment Programme (<a href="https://www.amap.no/">AMAP</a>)
+
 **This page is still under construction**
 {: .notice--warning}
 
