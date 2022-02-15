@@ -9,8 +9,7 @@ header:
   overlay_image: /assets/images/IMG_3148.JPG
   caption: "Photo credit: Abdelkader Mezghani"
   classes: wide
-excerpt: Senior Scientist   
-         Norwegian Meteorological Institute
+excerpt: Senior Scientist, Divison for Climate and Model Analyses at the Norwegian Meteorological Institute
 
 ---
 
