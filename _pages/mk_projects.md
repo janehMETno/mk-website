@@ -27,6 +27,8 @@ excerpt: The divison for Climate and Model Analyses has also a long record of pa
  </table>
 {: .notice}
 
+---
+
 ## CORDEX, On-going
 <table>
  <tr>
@@ -38,6 +40,8 @@ The Coordinated Regional Downscaling Experiment within the World Climate Researc
  </td>
  </tr>
  </table>
+
+---
 
 ## INDICE (2012-2016)
 <table>
@@ -51,7 +55,7 @@ The Coordinated Regional Downscaling Experiment within the World Climate Researc
  </tr>
  </table>
 
-
+---
 
 ## DECM, 2016-2019
 <table>
