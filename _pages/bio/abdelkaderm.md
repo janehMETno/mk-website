@@ -2,7 +2,7 @@
 title: "Dr. Abdelkader Mezghani"
 permalink: /abdelkaderm/
 hidden: true
-toc: false
+toc: true
 classes: wide
 header:
   overlay_color: "#5e616c"
