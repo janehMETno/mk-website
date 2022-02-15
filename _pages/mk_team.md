@@ -104,7 +104,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <font size = "3"> <strong> Abdelkader Mezghani,</strong><em>Ph. D. in Environmental Sciences </em><br><br>
    Dr. Mezghani is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His main interests include downscaling of weather and climate information, statistical analyses, programming and web developments, modeling of temperature and precipitation, Big data, Neural networks. </font><br><br>
  <strong> Useful links</strong><br>
- <a href="https://orcid.org/0000-0003-2825-5884"> ORCID </a>;<a href="https://no.linkedin.com/in/abdelkader-mezghani-8a3aa127"> LinkedIn Profile </a>; <a href="https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en"> Google Scholars </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764228"> Cristin    </a>;  <a href="https://metno.github.io/mk-website/_pages/bio/abdelkaderm.md"> Personal Page </a>
+ <a href="https://orcid.org/0000-0003-2825-5884"> ORCID </a>;<a href="https://no.linkedin.com/in/abdelkader-mezghani-8a3aa127"> LinkedIn Profile </a>; <a href="https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en"> Google Scholars </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764228"> Cristin    </a>;  <a href="https://metno.github.io/mk-website/abdelkaderm.md"> Personal Page </a>
  </td>
  <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/abdelkader_metno.jpg"/> </center></td>
  </tr>
