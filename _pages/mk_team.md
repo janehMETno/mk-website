@@ -58,7 +58,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
     <font size="3"> <strong> Anita Verpe Dyrrdal, <em>Ph. D. in Meteorology</em> </strong><br><br>
       Dr. Dyrrdal is a senior scientist at the Division for Climate and Model Analyses at the Norwegian Meteorological Institute and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.</font><br><br>
  <strong> Useful links</strong><br>
-     <a href = ""> Email: anitavd@met.no </a>;<a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>;>a href="https://klimaservicesenter.no/"> KSS </a>
+     <a href = ""> Email: anitavd@met.no </a>;<a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>;<a href="https://klimaservicesenter.no/"> KSS </a>
  </td>
  </tr>
  </table>
@@ -137,7 +137,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <strong> Useful links</strong><br>
     Email: ketil.isaksen@met.no; <a href="https://orcid.org/0000-0003-2356-5330"> ORCID </a>;<a href=""> CV </a>; <a href="https://scholar.google.no/citations?user=m-l6ggIAAAAJ&hl=en"> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764197"> Cristin </a>
  </td>
- <td width="30%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/ketil.jpeg"/> </center></td>
+ <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/ketil.jpeg"/> </center></td>
   </tr>
  </table>
 {: .notice--primary}
@@ -152,7 +152,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <strong> Useful links</strong><br>
     Email: oskar.landgren@met.no; <a href="https://orcid.org/0000-0002-6264-8502"> ORCID </a>;<a href=""> CV </a>; <a href="https://scholar.google.no/citations?user=NCmMXecAAAAJ&hl=en"> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=619150"> Cristin </a>
  </td>
- <td width="30%" ><center> <img src="https://www.mn.uio.no/geo/forskning/aktuelt/arrangementer/disputaser/2019/pdf/oskar-landgren-150px.jpg"/> </center></td>
+ <td width="30%" style ="border: none;"><center> <img src="https://www.mn.uio.no/geo/forskning/aktuelt/arrangementer/disputaser/2019/pdf/oskar-landgren-150px.jpg"/> </center></td>
   </tr>
  </table>
 {: .notice--primary}
@@ -161,7 +161,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 
 <table>
  <tr>
-  <td width="30%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/helene_MET_Norway.png"/> </center></td>
+  <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/helene_MET_Norway.png"/> </center></td>
   <td align="justify" style ="border: none;">
  <font size = "3"><strong> Helena Birkeland Erlandsen </strong> <em>Ph. D. in ? </em><br><br>
    Dr. Birkeland-Erlandsen is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include: hybrid-downscaling of temperature and precipitation.</font> <br><br>
@@ -182,7 +182,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
    <strong> Useful links</strong><br>
     <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764232"> Cristin </a>
  </td>
- <td width="30%" ><center> <img src="https://pbs.twimg.com/profile_images/1273625585651245059/lKtheL26_400x400.jpg"/> </center></td>
+ <td width="30%" style ="border: none;"><center> <img src="https://pbs.twimg.com/profile_images/1273625585651245059/lKtheL26_400x400.jpg"/> </center></td>
   </tr>
  </table>
 {: .notice--primary}
