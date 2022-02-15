@@ -9,7 +9,8 @@ header:
   overlay_image: /assets/images/IMG_3148.JPG
   caption: "Photo credit: Abdelkader Mezghani"
   classes: wide
-excerpt: Dr. Abdelkader Mezghani, Ph. D. in Environmental Sciences from the Swiss Federal Institute of Technology
+excerpt: Dr. Abdelkader Mezghani, Ph. D. in Environmental Sciences,   
+         Norwegian Meteorological Institute
 
 ---
 
