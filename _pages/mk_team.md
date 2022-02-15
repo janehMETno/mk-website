@@ -24,6 +24,8 @@ excerpt: The model and climate analyses group involves highly qualified leading 
   <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/rasmus2.jpeg"/> </center></td>
   <td align="justify" valign="top" style ="border: none;">
   <font size="4"> Dr. Rasmus E. Benestad is a senior scientist and head of Model and Climateanalysis who's work involves climate change, climate variability and methods for empirical-statistical downscaling (regional climate modelling). He has also been involved with outreach, climate science communication and national as well as international collaborations. World Climate Research Programme's <a href="https://cordex.org/domains/cordex-esd/">CORDEX</a>, the European Climate Research Alliance (<a href="http://www.ecra-climate.eu/about-us/executive-committee">ECRA</a>), the European Meteorological Society (<a href="https://www.emetsoc.org/about-ems/project-teams-committees/media-and-communication/">EMS</a>), and the Arctic Monitoring and Assessment Programme (<a href="https://www.amap.no/">AMAP</a>).<br></font>
+    
+    
  <a href="https://orcid.org/0000-0002-5969-4508"> ORCID </a>;<a href="https://docs.google.com/document/d/14Vnfk0DuEwSPCJgnTAwzx1woqk4TWoivlrS7tBFU2SA/edit?usp=sharing"> CV </a>; <a href="https://scholar.google.com/citations?user=KYAUZL4AAAAJ&hl=no"> Google Scholar </a>; <a href="https://app.cristin.no/search.jsf?t=%22Rasmus%20Benestad%22"> Cristin </a> 
  </td>
  </tr>
@@ -35,13 +37,12 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 ## Jan Erik Haugen, Senior Scientist and Assistant Director
 <table>
  <tr>
-  <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/janerik.jpeg"/> </center></td>
   <td align="justify" style ="border: none;">
- 
   <font size = "4"> Dr. Jan Erik Haugen is a senior scientist and assistant director of the division for Climate and Model Analyses at the Norwegian Meteorological Insitute. ... </font><br>
  <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764220"> Cristin </a>
  </td>
- </tr>
+ <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/janerik.jpeg"/> </center></td>
+  </tr>
  </table>
 {: .notice--primary}
 
@@ -123,7 +124,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 <table>
  <tr>
   <td width="30%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/ketil.jpeg"/> </center></td>
-  <td align="justify">
+  <td align="justify" style ="border: none;">
  
   <font size = "4">Dr. Ketil Isaksen is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His primary area of interest and expertise are related to permafrost and climatology, including permafrost thermal response and sensitivity to climate change and extreme events, the application of long-term monitoring and geophysical methods in frozen ground, physical processes in the cryosphere and climate change and variability in mountain regions and in the Arctic.</font><br>
  Email: ketil.isaksen@met.no
@@ -139,21 +140,22 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 <table>
  <tr>
   <td width="30%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/helene_MET_Norway.png"/> </center></td>
-  <td align="justify">
+  <td align="justify" style ="border: none;">
  <font size = "4"> Dr. Helena Birkeland Erlandsen is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include: hybrid-downscaling of temperature and precipitation.</font> <br>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
  </table>
+{: .notice--primary}
 
 ---
-{: .notice--primary}
+
 
 ## Øyvind Nordli, Researcher
 <table>
  <tr>
   <td width="30%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/oyvind.jpeg"/> </center></td>
-  <td align="justify">
+  <td align="justify" style ="border: none;">
  
   <font size = "4"> Dr. Øyvind Nordli is ...</font><br>
  <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764232"> Cristin </a>
