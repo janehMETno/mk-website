@@ -1,6 +1,9 @@
 ---
 title: "Research Projects"
 permalink: /project/
+toc : false
+classes : wide
+
 ---
 
 
