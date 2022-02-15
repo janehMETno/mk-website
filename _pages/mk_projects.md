@@ -16,19 +16,19 @@ excerpt: The divison for Climate and Model Analyses has also a long record of pa
 
 ## ESD, On-going
 <table>
- 
+ <tr>
   <td width="25%" ><center> <img src=""/> </center></td>
   <td align="justify">
   Empirical-statistical downscaling toolbox include tools for analysing and visualising climate data for station data as well as gridded model results. Designed to be flexible, intuitive, and efficient. It is based on the R-environment, and consists of an R-package that comes with code, documentation and help pages. The source code is free of access and is available at Github repository. It is supported by Rmarkdown scripts which is a tool for documenting work done within R and R-shiny which is a web-based tool for making apps running R. All these tools work seamlessly with Rstudio.
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
- 
+  </tr>
  </table>
 {: .notice}
 
 ---
 
-## CORDEX, On-going
+## RCM via CORDEX, On-going
 <table>
  <tr>
   <td width="25%" ><center> <img src="https://cordex.org/wp-content/themes/rt_callisto/custom/images/CORDEX_Variant%202_eeva%20-%20whiteCordexLine2Africa.png"/> </center></td>
