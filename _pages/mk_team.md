@@ -43,7 +43,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  </td>
  </tr>
  </table>
-{: .notice--info}
+{: .notice--primary}
 
 ---
 
@@ -72,7 +72,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  </td>
  </tr>
  </table>
-{: .notice--info}
+{: .notice--primary}
 
 ---
 
@@ -101,7 +101,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  </td>
  </tr>
  </table>
-{: .notice--info}
+{: .notice--primary}
 
 ---
 
@@ -131,7 +131,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  </td>
  </tr>
  </table>
-{: .notice--info}
+{: .notice--primary}
 
 ---
 
@@ -160,7 +160,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  </td>
  </tr>
  </table>
-{: .notice--info}
+{: .notice--primary}
 
 ---
 <img src="https://metno.github.io/mk-website/assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>
