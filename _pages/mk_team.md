@@ -21,7 +21,8 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 ## Rasmus E. Benestad, Head of the department
 <img src = "https://metno.github.io/mk-website/assets/images/bio/rasmus2.jpeg" width = "30%" align="left" class = "padding"> 
 
-Dr. Rasmus E. Benestad is a senior scientist and head of Model and Climateanalysis who's work involves climate change, climate variability and methods for empirical-statistical downscaling (regional climate modelling). He has also been involved with outreach, climate science communication and national as well as international collaborations. World Climate Research Programme's <a href="https://cordex.org/domains/cordex-esd/">CORDEX</a>, the European Climate Research Alliance (<a href="http://www.ecra-climate.eu/about-us/executive-committee">ECRA</a>), the European Meteorological Society (<a href="https://www.emetsoc.org/about-ems/project-teams-committees/media-and-communication/">EMS</a>), and the Arctic Monitoring and Assessment Programme (<a href="https://www.amap.no/">AMAP</a>)  
+<p style="font-family: times, serif; font-size:11pt; font-style:italic">
+Dr. Rasmus E. Benestad is a senior scientist and head of Model and Climateanalysis who's work involves climate change, climate variability and methods for empirical-statistical downscaling (regional climate modelling). He has also been involved with outreach, climate science communication and national as well as international collaborations. World Climate Research Programme's <a href="https://cordex.org/domains/cordex-esd/">CORDEX</a>, the European Climate Research Alliance (<a href="http://www.ecra-climate.eu/about-us/executive-committee">ECRA</a>), the European Meteorological Society (<a href="https://www.emetsoc.org/about-ems/project-teams-committees/media-and-communication/">EMS</a>), and the Arctic Monitoring and Assessment Programme (<a href="https://www.amap.no/">AMAP</a>)</p>  
 
 ---
 
