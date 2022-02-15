@@ -113,7 +113,6 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 
 ---
 
-## Kajsa Maria Parding, Young Sceintist
 <table>
  <tr>
  <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/kajsa_MET_Norway.png"/> </center></td>
@@ -130,7 +129,6 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 
 ---
 
-## Ketil Isaksen, Senior Scientist
 <table>
  <tr>
   <td align="justify" style ="border: none;">
@@ -146,7 +144,6 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 
 ---
 
-## Helena Birkeland Erlandsen, Young Scientist
 <table>
  <tr>
   <td width="30%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/helene_MET_Norway.png"/> </center></td>
@@ -162,7 +159,6 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 
 ---
 
-## Øyvind Nordli, Researcher
 <table>
  <tr>
   <td align="justify" style ="border: none;">
