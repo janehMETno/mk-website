@@ -73,8 +73,9 @@ excerpt: The model and climate analyses group involves highly qualified leading 
   <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/andreas.jpeg"/> </center></td>
   <td align="justify" style ="border: none;">
   <font size="3"> <strong> Andreas Dobler, <em>Ph. D. in computer Science</em> </strong><br>
-    Dr. Dobler is a ...</font><br>
- <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764212"> Cristin </a>
+    Dr. Dobler is a senior scientist ...</font><br>
+    <strong> Useful links</strong><br>
+    <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764212"> Cristin </a>
  </td>
  </tr>
  </table>
@@ -82,13 +83,14 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 
 ---
 
-## Julia Lutz, Young Research Scientist
 <table>
  <tr>
   <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/julia.jpeg"/> </center></td>
   <td align="justify" style ="border: none;">
-  <font size="3"> Dr. Julia Lutz is a young scientist at the division for model and climate analysis at the Norwegian Meteorological Institute in Oslo. Her main interests include statistical climate modelling and climate analysis.</font><br> 
- <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=1081908"> Cristin </a>
+    <font size="3"> <strong> Julia Lutz</strong>, <em>Ph. D. in !!!</em><br> 
+    Dr. Julia Lutz is a young scientist at the division for model and climate analysis at the Norwegian Meteorological Institute in Oslo. Her main interests include statistical climate modelling and climate analysis.</font><br> 
+    <strong> Useful links</strong><br>
+    <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=1081908"> Cristin </a>
  </td>
  </tr>
  </table>
@@ -96,12 +98,13 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 
 ---
 
-## Abdelkader Mezghani, Senior Scientist
- <table>
+<table>
  <tr>
   <td align="justify" style ="border: none;">
- <font size = "3"> Dr. Abdelkader Mezghani is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His main interests include downscaling of weather and climate information, statistical analyses, programming and web developments, modeling of temperature and precipitation, Big data, Neural networks.</font><br>
- <a href="https://orcid.org/0000-0003-2825-5884"> ORCID </a>;<a href="https://no.linkedin.com/in/abdelkader-mezghani-8a3aa127"> LinkedIn Profile </a>; <a href="https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en"> Google Scholars </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764228"> Cristin </a> 
+ <font size = "3"> <strong> Abdelkader Mezghani,</strong><em>Ph. D. in Environmental Sciences </em><br>
+   Dr. Mezghani is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His main interests include downscaling of weather and climate information, statistical analyses, programming and web developments, modeling of temperature and precipitation, Big data, Neural networks. </font><br>
+ <strong> Useful links</strong><br>
+ <a href="https://orcid.org/0000-0003-2825-5884"> ORCID </a>;<a href="https://no.linkedin.com/in/abdelkader-mezghani-8a3aa127"> LinkedIn Profile </a>; <a href="https://scholar.google.com/citations?user=oeIMYnUAAAAJ&hl=en"> Google Scholars </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764228"> Cristin    </a> 
  </td>
  <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/abdelkader_metno.jpg"/> </center></td>
  </tr>
@@ -115,8 +118,10 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <tr>
  <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/kajsa_MET_Norway.png"/> </center></td>
  <td align="justify" style ="border: none;">
- <font size = 3> Dr. Kajsa Maria Parding is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include downscaling of weather and climate information, statistical analyses, modeling of temperature and precipitation, and storm track analyses.</font><br>
- <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ <font size = 3> <strong> Kajsa Maria Parding </strong><em>Ph. D. in ? </em><br>
+   Dr. Parding is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include downscaling of weather and climate information, statistical analyses, modeling of temperature and precipitation, and storm track analyses.</font><br>
+   <strong> Useful links</strong><br>
+   <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  
   </tr>
@@ -129,9 +134,10 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 <table>
  <tr>
   <td align="justify" style ="border: none;">
-  <font size = "3">Dr. Ketil Isaksen is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His primary area of interest and expertise are related to permafrost and climatology, including permafrost thermal response and sensitivity to climate change and extreme events, the application of long-term monitoring and geophysical methods in frozen ground, physical processes in the cryosphere and climate change and variability in mountain regions and in the Arctic.</font><br>
- Email: ketil.isaksen@met.no
- <a href="https://orcid.org/0000-0003-2356-5330"> ORCID </a>;<a href=""> CV </a>; <a href="https://scholar.google.no/citations?user=m-l6ggIAAAAJ&hl=en"> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764197"> Cristin </a>
+  <font size = "3"><strong> Ketil Isaksen </strong> <em>Ph. D. in ? </em><br>
+    Dr. Isaksen is a senior scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His primary area of interest and expertise are related to permafrost and climatology, including permafrost thermal response and sensitivity to climate change and extreme events, the application of long-term monitoring and geophysical methods in frozen ground, physical processes in the cryosphere and climate change and variability in mountain regions and in the Arctic.</font><br>
+ <strong> Useful links</strong><br>
+    Email: ketil.isaksen@met.no; <a href="https://orcid.org/0000-0003-2356-5330"> ORCID </a>;<a href=""> CV </a>; <a href="https://scholar.google.no/citations?user=m-l6ggIAAAAJ&hl=en"> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764197"> Cristin </a>
  </td>
  <td width="30%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/ketil.jpeg"/> </center></td>
   </tr>
@@ -145,8 +151,10 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <tr>
   <td width="30%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/helene_MET_Norway.png"/> </center></td>
   <td align="justify" style ="border: none;">
- <font size = "4"> Dr. Helena Birkeland Erlandsen is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include: hybrid-downscaling of temperature and precipitation.</font> <br>
- <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ <font size = "4"><strong> Helena Birkeland Erlandsen </strong> <em>Ph. D. in ? </em><br>
+   Dr. Birkeland-Erlandsen is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include: hybrid-downscaling of temperature and precipitation.</font> <br>
+  <strong> Useful links</strong><br>
+    <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
  </table>
@@ -158,8 +166,10 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 <table>
  <tr>
   <td align="justify" style ="border: none;">
-  <font size = "4"> Dr. Øyvind Nordli is ...</font><br>
- <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764232"> Cristin </a>
+  <font size = "4"> <strong> Øyvind Nordli </strong> <em>Ph. D. in ? </em><br>
+    Dr. Nordli is ...</font><br>
+   <strong> Useful links</strong><br>
+    <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764232"> Cristin </a>
  </td>
  <td width="30%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/oyvind.jpeg"/> </center></td>
   </tr>
