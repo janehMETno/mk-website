@@ -19,18 +19,11 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 ---
 
 ## Rasmus E. Benestad, Head of the department
-![image-left]({{ "/assets/images/bio/rasmus2.jpeg" | width = "30%"}}){: .align-left}
-
-Dr. Rasmus E. Benestad is a senior scientist and head of Model and Climateanalysis who's work involves climate change, climate variability and methods for empirical-statistical downscaling (regional climate modelling). He has also been involved with outreach, climate science communication and national as well as international collaborations. World Climate Research Programme's <a href="https://cordex.org/domains/cordex-esd/">CORDEX</a>, the European Climate Research Alliance (<a href="http://www.ecra-climate.eu/about-us/executive-committee">ECRA</a>), the European Meteorological Society (<a href="https://www.emetsoc.org/about-ems/project-teams-committees/media-and-communication/">EMS</a>), and the Arctic Monitoring and Assessment Programme (<a href="https://www.amap.no/">AMAP</a>)</p>  
-
----
-
-## Rasmus E. Benestad, Head of the department
 <table>
  <tr>
-  <td width="20%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/rasmus2.jpeg"/> </center></td>
+  <td width="40%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/rasmus2.jpeg"/> </center></td>
   <td align="justify">
-  <font size="4"> This is my text number 2 Dr. Rasmus E. Benestad is a senior scientist and head of Model and Climateanalysis who's work involves climate change, climate variability and methods for empirical-statistical downscaling (regional climate modelling). He has also been involved with outreach, climate science communication and national as well as international collaborations. World Climate Research Programme's <a href="https://cordex.org/domains/cordex-esd/">CORDEX</a>, the European Climate Research Alliance (<a href="http://www.ecra-climate.eu/about-us/executive-committee">ECRA</a>), the European Meteorological Society (<a href="https://www.emetsoc.org/about-ems/project-teams-committees/media-and-communication/">EMS</a>), and the Arctic Monitoring and Assessment Programme (<a href="https://www.amap.no/">AMAP</a>)<br>
+  <font size="6"> Dr. Rasmus E. Benestad is a senior scientist and head of Model and Climateanalysis who's work involves climate change, climate variability and methods for empirical-statistical downscaling (regional climate modelling). He has also been involved with outreach, climate science communication and national as well as international collaborations. World Climate Research Programme's <a href="https://cordex.org/domains/cordex-esd/">CORDEX</a>, the European Climate Research Alliance (<a href="http://www.ecra-climate.eu/about-us/executive-committee">ECRA</a>), the European Meteorological Society (<a href="https://www.emetsoc.org/about-ems/project-teams-committees/media-and-communication/">EMS</a>), and the Arctic Monitoring and Assessment Programme (<a href="https://www.amap.no/">AMAP</a>)
  <a href="https://orcid.org/0000-0002-5969-4508"> ORCID </a>;<a href="https://docs.google.com/document/d/14Vnfk0DuEwSPCJgnTAwzx1woqk4TWoivlrS7tBFU2SA/edit?usp=sharing"> CV </a>; <a href="https://scholar.google.com/citations?user=KYAUZL4AAAAJ&hl=no"> Google Scholar </a>; <a href="https://app.cristin.no/search.jsf?t=%22Rasmus%20Benestad%22"> Cristin </a> </font>
  </td>
  </tr>
@@ -39,9 +32,9 @@ Dr. Rasmus E. Benestad is a senior scientist and head of Model and Climateanalys
 ## Anita Verpe Dyrrdal, Scientist and Head of the Norwegian Climate Service Centre
 <table>
  <tr>
-  <td width="20%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/Anita_MET_Norway.png"/> </center></td>
+  <td width="40%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/Anita_MET_Norway.png"/> </center></td>
   <td align="justify">
-    Dr. Anita Verpe Dyrrdal is a senior scientist at the Division for Climate and Model Analyses at the Norwegian Meteorological Institute and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.<br>
+    <font size="6"> Dr. Anita Verpe Dyrrdal is a senior scientist at the Division for Climate and Model Analyses at the Norwegian Meteorological Institute and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.</font>
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
