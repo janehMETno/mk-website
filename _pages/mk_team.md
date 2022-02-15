@@ -23,7 +23,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <tr>
    <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/rasmus2.jpeg"/> <strong> Rasmus E. Benestad, Ph.D. in Physics </strong></center></td> 
    <td align="justify" valign="top" style ="border: none;">
-  <font size="3"> Dr. Rasmus E. Benestad is a senior scientist and head of Model and Climateanalysis who's work involves climate change, climate variability and methods for empirical-statistical downscaling (regional climate modelling). He has also been involved with outreach, climate science communication and national as well as international collaborations. World Climate Research Programme's <a href="https://cordex.org/domains/cordex-esd/">CORDEX</a>, the European Climate Research Alliance (<a href="http://www.ecra-climate.eu/about-us/executive-committee">ECRA</a>), the European Meteorological Society (<a href="https://www.emetsoc.org/about-ems/project-teams-committees/media-and-communication/">EMS</a>), and the Arctic Monitoring and Assessment Programme (<a href="https://www.amap.no/">AMAP</a>).<br></font>
+  <font size="3"> Dr. Rasmus E. Benestad is a senior scientist and head of Model and Climateanalysis who's work involves climate change, climate variability and methods for empirical-statistical downscaling (regional climate modelling). He has also been involved with outreach, climate science communication and national as well as international collaborations. World Climate Research Programme's <a href="https://cordex.org/domains/cordex-esd/">CORDEX</a>, the European Climate Research Alliance (<a href="http://www.ecra-climate.eu/about-us/executive-committee">ECRA</a>), the European Meteorological Society (<a href="https://www.emetsoc.org/about-ems/project-teams-committees/media-and-communication/">EMS</a>), and the Arctic Monitoring and Assessment Programme (<a href="https://www.amap.no/">AMAP</a>).</font><br><br>
      <strong> Useful links</strong><br>
      <a href=""> rasmusb@met.no </a>;<a href="https://orcid.org/0000-0002-5969-4508"> ORCID </a>;<a href="https://docs.google.com/document/d/14Vnfk0DuEwSPCJgnTAwzx1woqk4TWoivlrS7tBFU2SA/edit?usp=sharing"> CV </a>; <a href="https://scholar.google.com/citations?user=KYAUZL4AAAAJ&hl=no"> Google Scholar </a>; <a href="https://app.cristin.no/search.jsf?t=%22Rasmus%20Benestad%22"> Cristin </a> 
  </td>
@@ -38,7 +38,8 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <tr>
   <td align="justify" style ="border: none;">
   <font size = "3"> Dr. Jan Erik Haugen is a senior scientist and assistant director of the division for Climate and Model Analyses at the Norwegian Meteorological Insitute. ... </font><br>
-Useful links: Email: janeh@met.no; <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764220"> Cristin </a>
+ <strong> Useful links</strong><br>
+    <a href=""> Email:janeh@met.no </a>; <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764220"> Cristin </a>
  </td>
  <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/janerik.jpeg"/> </center></td>
   </tr>
@@ -53,7 +54,8 @@ Useful links: Email: janeh@met.no; <a href=""> ORCID </a>;<a href=""> CV </a>; <
  <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/Anita_MET_Norway.png"/> </center></td> 
    <td align="justify" valign="top" style ="border: none;">
     <font size="3"> Dr. Anita Verpe Dyrrdal is a senior scientist at the Division for Climate and Model Analyses at the Norwegian Meteorological Institute and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.</font><br>
- <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ <strong> Useful links</strong><br>
+     <a href = ""> Email: anitavd@met.no </a>;<a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
  </table>
