@@ -7,8 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/IMG_3148.JPG
   caption: "Photo credit: Abdelkader Mezghani"
-excerpt:>
-  Divison for Climate and Model Analyses at the Norwegian Meteorological Institute
+excerpt: The divison for Climate and Model Analyses has also a long record of participation in regional and EEA/Norway Grant programmes in addition to EU-grants, projects funded by external organisations, and projects funded by the Norwegian Research Council and the Nordic organisation NordForsk.
 
 ---
 
