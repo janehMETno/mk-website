@@ -146,6 +146,21 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 
 <table>
  <tr>
+  <td align="justify" style ="border: none;">
+  <font size = "3"><strong> Oskar A. Landgren </strong> <em>Ph. D. in ? </em><br><br>
+    Dr. Langren is a young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His primary area of interest and expertise are related to regional climate downscaling and sensitivity to climate change and extreme events in Norway and the Arctic.</font><br><br>
+ <strong> Useful links</strong><br>
+    Email: oskar.landgren@met.no; <a href="https://orcid.org/0000-0002-6264-8502"> ORCID </a>;<a href=""> CV </a>; <a href="https://scholar.google.no/citations?user=NCmMXecAAAAJ&hl=en"> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=619150"> Cristin </a>
+ </td>
+ <td width="30%" ><center> <img src="https://www.mn.uio.no/geo/forskning/aktuelt/arrangementer/disputaser/2019/pdf/oskar-landgren-150px.jpg"/> </center></td>
+  </tr>
+ </table>
+{: .notice--primary}
+
+---
+
+<table>
+ <tr>
   <td width="30%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/helene_MET_Norway.png"/> </center></td>
   <td align="justify" style ="border: none;">
  <font size = "3"><strong> Helena Birkeland Erlandsen </strong> <em>Ph. D. in ? </em><br><br>
