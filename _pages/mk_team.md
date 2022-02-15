@@ -148,7 +148,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <tr>
   <td width="30%" ><center> <img src="https://metno.github.io/mk-website/assets/images/bio/helene_MET_Norway.png"/> </center></td>
   <td align="justify" style ="border: none;">
- <font size = "4"><strong> Helena Birkeland Erlandsen </strong> <em>Ph. D. in ? </em><br><br>
+ <font size = "3"><strong> Helena Birkeland Erlandsen </strong> <em>Ph. D. in ? </em><br><br>
    Dr. Birkeland-Erlandsen is young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. Her main interests include: hybrid-downscaling of temperature and precipitation.</font> <br><br>
   <strong> Useful links</strong><br>
     <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -162,7 +162,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 <table>
  <tr>
   <td align="justify" style ="border: none;">
-  <font size = "4"> <strong> Øyvind Nordli </strong> <em>Ph. D. in ? </em><br><br>
+  <font size = "3"> <strong> Øyvind Nordli </strong> <em>Ph. D. in ? </em><br><br>
     Dr. Nordli is ...</font><br><br>
    <strong> Useful links</strong><br>
     <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764232"> Cristin </a>
