@@ -32,18 +32,29 @@ excerpt: Senior Scientist, Divison for Climate and Model Analyses at the Norwegi
 
 ---
 
-**Biography**  
-
-Dr. Mezghani Abdelkader is a research scientist at the Climate and Model Analysis group, MET Norway. The main work at MET Norway has been on the development of new empirical-statistical climate downscaling methods and techniques that relates regional and global climate model results to local precipitation and temperature through generalized linear regression models. He acted as a MET leader in CHASE-PL project (2014-2017).  
-
-Currently, he is involved in the C3S DECM project by developing a prototype for COPENICUS services on how to evaluate Big-Data from climate model simulations. He is also the co-developer of a the 'ESD' R package which contains a set of libraries to visualise and downscale climate variables and parameters using advanced methods such as Empirical-Orthogonal Function (EOF), Principal Component Analysis (PCA) and Canonical Correlation Analysis (CCA). His research expertise has addressed three different scales: synoptic, regional, and local scales with a particular interest on the interactions and associated uncertainties between them. Before joining MET Norway, 
-
-Dr. Mezghani received his Ph. D. in Environmental Sciences from the Swiss Federal Institute of Technology (EPFL, 2009). Before joining MET Norway, he worked as a as a Post-doc at the French National Centre for Scientific Research (CNRS, 2009-2012) working on site at the Hydro-meterology, Climate and Impact group at the university of Grenoble (LTHE, 2009). had various international contributions in the CLIMAT project (Switzerland-Luxembourg, 2007), the European SWURVE project (Switzerland, 2005), RIWER2030 (France, 2009), OFEN (Switzerland, 2008), and CONSECRU (Switzerland, 2006). 
-
 **Key research areas**  
 
  * Climate Change
  * Downscaling of Climate information
  * Statistical Analyses
  * R shiny web applications for climate models' evaluation
+{: .notice--info}
+
+---
+
+**Biography**  
+
+Dr. Mezghani Abdelkader is a research scientist at the Climate and Model Analysis group, MET Norway. The main work at MET Norway has been on the development of new empirical-statistical climate downscaling methods and techniques that relates regional and global climate model results to local precipitation and temperature through generalized linear regression models.   
+
+His research expertise has addressed three different scales: synoptic, regional, and local scales with a particular interest on the interactions and associated uncertainties between them.  
+
+Currently, he is involved in the WeaMyL project, a bilateral collaboration between Romania and Norway within the EEA program by supporting the implementation of a machine learning system for weather nowcasting across Norway, as well as, supporting developments of the forecasting platform. He is also supporting the work within the Norwegian Climate Service Center providing reliable prediction of temperature across Norway using advanced statistcal downscaling approaches.
+
+Dr. Mezghani acted as MET leader in CHASE-PL project (2014-2017) and participated in the C3S DECM project by developing a ![prototype App](https://decm.copernicus-climate.eu/) for COPENICUS services on how to evaluate Big-Data from climate model simulations. 
+
+He is also the co-developer of a the ![ESD toolbox]("https://metno.github.io/esd/") R package which contains a set of libraries to visualise and downscale climate variables and parameters using advanced methods such as Empirical-Orthogonal Function (EOF), Principal Component Analysis (PCA) and Canonical Correlation Analysis (CCA). 
+
+Before joining MET Norway, Dr. Mezghani received his Ph. D. in Environmental Sciences from the Swiss Federal Institute of Technology (EPFL, 2009). Before joining MET Norway, he worked as a as a Post-doc at the French National Centre for Scientific Research (CNRS, 2009-2012) working on site at the Hydro-meterology, Climate and Impact group at the university of Grenoble (LTHE, 2009). had various international contributions in the CLIMAT project (Switzerland-Luxembourg, 2007), the European SWURVE project (Switzerland, 2005), RIWER2030 (France, 2009), OFEN (Switzerland, 2008), and CONSECRU (Switzerland, 2006). 
+
+
 
