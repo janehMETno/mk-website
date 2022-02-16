@@ -32,13 +32,14 @@ excerpt: Senior Scientist, Divison for Climate and Model Analyses at the Norwegi
 
 ---
 
-**Key research areas**  
-
+**
+Key research areas  
  * Climate Change
  * Downscaling of Climate information
  * Statistical Analyses
  * R shiny web applications for climate models' evaluation
-{: .notice--info}
+**
+{: .notice--warning}
 
 ---
 
