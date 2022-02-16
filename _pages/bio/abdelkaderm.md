@@ -2,14 +2,14 @@
 title: "Dr. Abdelkader Mezghani"
 permalink: /abdelkaderm/
 hidden: true
-toc: true
+toc: false
 classes: wide
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/IMG_3148.JPG
   caption: "Photo credit: Abdelkader Mezghani"
   classes: wide
-excerpt: Senior Scientist, Divison for Climate and Model Analyses at the Norwegian Meteorological Institute
+excerpt: Senior Scientist, Norwegian Meteorological Institute
 
 ---
 
