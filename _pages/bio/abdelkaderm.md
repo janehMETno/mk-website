@@ -32,11 +32,15 @@ excerpt: Senior Scientist, Norwegian Meteorological Institute
 
 ---  
 
-**Key research areas  
+<table>
+ <tr>
+**Key research areas**
  * Climate Change
  * Downscaling of Climate information
  * Statistical Analyses
  * R shiny web applications for climate models' evaluation
+ </tr>
+ </table>
 {: .notice--info}
 
 ---
