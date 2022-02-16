@@ -41,9 +41,9 @@ excerpt: Senior Scientist, Norwegian Meteorological Institute
 
 Dr. Mezghani Abdelkader is a research scientist at the Climate and Model Analysis group, MET Norway. The main work at MET Norway has been on the development of new empirical-statistical climate downscaling methods and techniques that relates regional and global climate model results to local precipitation and temperature through generalized linear regression models.   
 
-His research expertise has addressed three different scales: synoptic, regional, and local scales with a particular interest on the interactions and associated uncertainties between them.  
+His research expertise has addressed three different weather and climate scales: synoptic, regional, and local scales with a particular interest on the interactions and associated uncertainties between them.  
 
-Currently, he is involved in the WeaMyL project, a bilateral collaboration between Romania and Norway within the EEA program by supporting the implementation of a machine learning system for weather nowcasting across Norway, as well as, supporting developments of the forecasting platform. He is also supporting the work within the Norwegian Climate Service Center providing reliable prediction of temperature across Norway using advanced statistcal downscaling approaches.
+Currently, he is involved in the WeaMyL project, a bilateral collaboration between Romania and Norway within the EEA program by supporting the implementation of a machine learning system for weather nowcasting across Norway, as well as, supporting developments of the forecasting platform. He is also supporting the work within the Norwegian Climate Service Center providing reliable multi-scenarii-model prediction of temperature across Norway using advanced statistcal downscaling approaches.
 
 Dr. Mezghani acted as MET leader in CHASE-PL project (2014-2017) and participated in the C3S DECM project by developing a [prototype App](https://decm.copernicus-climate.eu/) for COPENICUS services on how to evaluate Big-Data from climate model simulations. 
 
