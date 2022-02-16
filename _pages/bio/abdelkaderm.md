@@ -49,7 +49,7 @@ Dr. Mezghani acted as MET leader in CHASE-PL project (2014-2017) and participate
 
 He is also the co-developer of a the [ESD toolbox]("https://metno.github.io/esd/") R package which contains a set of libraries to visualise and downscale climate variables and parameters using advanced methods such as Empirical-Orthogonal Function (EOF), Principal Component Analysis (PCA) and Canonical Correlation Analysis (CCA). 
 
-Before joining MET Norway, Dr. Mezghani received his Ph. D. in Environmental Sciences from the Swiss Federal Institute of Technology (EPFL, 2009). Before joining MET Norway, he worked as a as a Post-doc at the French National Centre for Scientific Research (CNRS, 2009-2012) working on site at the Hydro-meterology, Climate and Impact group at the university of Grenoble (LTHE, 2009). had various international contributions in the CLIMAT project (Switzerland-Luxembourg, 2007), the European SWURVE project (Switzerland, 2005), RIWER2030 (France, 2009), OFEN (Switzerland, 2008), and CONSECRU (Switzerland, 2006). 
+Before joining MET Norway, Dr. Mezghani received his Ph. D. in Environmental Sciences from the Swiss Federal Institute of Technology ([EPFL](https://epfl.ch), 2009) and worked as a as a Post-doc at the French National Centre for Scientific Research ([CNRS Grenoble](https://www.grenoble.cnrs.fr/), 2009-2012) working on site at the Hydro-meterology, Climate and Impact group at the university of Grenoble (LTHE, 2009). had various international contributions in the CLIMAT project (Switzerland-Luxembourg, 2007), the European SWURVE project (Switzerland, 2005), RIWER2030 (France, 2009), OFEN (Switzerland, 2008), and CONSECRU (Switzerland, 2006). 
 
 
 
