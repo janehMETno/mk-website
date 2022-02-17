@@ -40,7 +40,7 @@ Norway Grants and EEA Grants, Norway contributes to reducing social and economic
 
 ## Related Publications
 
-<p><font size=3> Benestad, R. and Mezghani, A. (2015) On downscaling probabilities for heavy 24-hr precipitation events at seasonal-to-decadal scales, Tellus A, 67, 25954, DOI: http://dx.doi.org/10.3402/tellusa.v67.25954 </p>
+Benestad, R. and Mezghani, A. (2015) On downscaling probabilities for heavy 24-hr precipitation events at seasonal-to-decadal scales, Tellus A, 67, 25954, DOI: http://dx.doi.org/10.3402/tellusa.v67.25954
 {: .notice}
 
 ---
