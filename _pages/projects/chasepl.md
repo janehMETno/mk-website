@@ -27,7 +27,7 @@ permalink: /chasepl/
 ## Main findings
 - Temperature over Poland is projected to increase by 2 C and 4 C assuming 
 
-![figure]('')
+![figure]('/assets/image/Screenshot from 2022-02-17 19-11-36.png')
 
 Comparison between the regional average temperature anomaly (°C) over Poland of a small ensemble of DD downscaled temperature projections (blue), and
 ESD downscaled values based on the full GCM ensemble (orange) and for the subset of models used for DD (red). The boxplots show the spread of averaged annual mean
