@@ -39,9 +39,8 @@ temperature anomalies over the period 2071-2100.
 Norway Grants and EEA Grants, Norway contributes to reducing social and economic disparities and to strengthening bilateral relations with the beneficiary countries in Europe. Norway cooperates closely with the EU through the Agreement on the European Economic Area (EEA).
 
 ## Related Publications
-<p><font size=3>
-Benestad, R. and Mezghani, A. (2015) On downscaling probabilities for heavy 24-hr precipitation events at seasonal-to-decadal scales, Tellus A, 67, 25954, DOI: http://dx.doi.org/10.3402/tellusa.v67.25954
-</p>
+
+<p><font size=3> Benestad, R. and Mezghani, A. (2015) On downscaling probabilities for heavy 24-hr precipitation events at seasonal-to-decadal scales, Tellus A, 67, 25954, DOI: http://dx.doi.org/10.3402/tellusa.v67.25954 </p>
 {: .notice}
 
 ---
