@@ -12,7 +12,7 @@ permalink: /chasepl/
 
 ## Our contribution
 - Produced bias-corrected and statistically downscaled global climate model to regional scale.  
-{: .notice--warning}
+{: .notice--primary}
 
 ## Main findings
 - Temperature over Poland is projected to increase by 2 C and 4 C assuming 
@@ -38,7 +38,7 @@ temperature anomalies over the period 2071-2100.
 Norway Grants and EEA Grants, Norway contributes to reducing social and economic disparities and to strengthening bilateral relations with the beneficiary countries in Europe. Norway cooperates closely with the EU through the Agreement on the European Economic Area (EEA).
 
 ## Related Publications
-
+<p><font 
 Benestad, R. and Mezghani, A. (2015) On downscaling probabilities for heavy 24-hr precipitation events at seasonal-to-decadal scales, Tellus A, 67, 25954, DOI: http://dx.doi.org/10.3402/tellusa.v67.25954
 
 ---
@@ -125,3 +125,4 @@ Mezghani, A., Dobler A., Haugen J.E. (2016) CHASE-PL Climate Projections: 5-km G
 Kundzewicz Z.W., Hov Ø., Okruszko T. (Eds.) (2017) Climate change and its impact on selected sectors in Poland, ISRL PAN, Poznań, pp. 255, ISBN: 978-83-8104-735-7.
 
 ---
+</p>
