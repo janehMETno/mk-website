@@ -20,10 +20,10 @@ We aim at enhancing the accuracy, performance, and reliability of national clima
 The main key reseach areas include:
 
 * Development and scientific validation of climate prediction to support the national climate service center
-* Development of climate application over Norway and elsewhere
-* Collaboration with national and international climate research groups
+* Assessing the imapct of climate change on various sectors in Norway, the Arctic, and elsewhere
+* Collaboration with national and international research groups on weather & climate, and any related topics
 
-We employ multidisciplinary approaches including national and international collaborations and will serve the climate community with high standard research in the fields of weather and climate.
+Our committment is to employ multidisciplinary approaches and innovative techniques to analyse, model, and predict both weather and climate.
 
 <p align="center">
 <img src="assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>
