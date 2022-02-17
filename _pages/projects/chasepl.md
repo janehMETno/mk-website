@@ -17,6 +17,7 @@ permalink: /chasepl/
 
 ## Main findings
  - Both bias-corrected and statistically downscaled data agree on a temperature increase over Poland by up to 4 °C towards the end of the 21st century.
+{: .notice--info}
 
 <p style="text-align:center;"><img src="https://metno.github.io/mk-website/assets/images/Screenshot%20from%202022-02-17%2019-11-36.png"></p>
 
