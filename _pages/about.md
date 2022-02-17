@@ -3,22 +3,23 @@ permalink: /about/
 title: "About MK"
 ---
 
-Model and Climate Analyses group aims at enhancing the accuracy, performance and reliability of national climate by the use of prediction advanded methods applied on weather observations. more text here ... 
+The Division of Model and Climate Analyses main goal aims at advancing climate science in the following key themes: 
 
-## Main objectives
+* Development and scientific validation of climate prediction to support the national climate service center
+* Development of climate application over Norway and elsewhere
+* Collaboration with national and international climate research groups
 
-The main objectives of the project are  the following:
-
-* Development and scientific validation of climate analyses
-* Downscaling of global climate models tailored for accurate climate prediction.
-* Development and user evaluation of the downscaling protocol, a large database containing climate data.
-
-## Acitivity 1
+## Development and scientific validation of regional climate prediction
    Add text here ...
+   
+### Downscaling of global climate models tailored for accurate climate prediction.
+    Add text here ...
 
-## Activity 2
+### Development and user evaluation of the downscaling protocol, a large database containing climate data.
+    Add text here ...
+
+### Regional climate modelling 
    Add text here ...
-
-The work programme is divided into five work packages (WPs), following the usual stages needed to reach the main research objective, namely to develop the WeaMyL software platform. These are:
-
-### sub-activity 
+   
+### Empirical-Statistical Downscaling
+   Add text here ...
