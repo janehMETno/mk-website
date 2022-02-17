@@ -24,16 +24,14 @@ Comparison between the regional average temperature anomaly (°C) over Poland of
 ESD downscaled values based on the full GCM ensemble (orange) and for the subset of models used for DD (red). The boxplots show the spread of averaged annual mean
 temperature anomalies over the period 2071-2100.
 
-
 ## Partners
-
 - Institute for Agricultural and Forest Environment (IAFE), Polish Academy of Sciences
   Bukowska 19, 60-809 Poznań, Poland
   www.isrl.poznan.pl
-
 - Warsaw University of Life Sciences – SGGW, Faculty of Civil and Environmental Engineering
   ul. Nowoursynowska 166
   02-787 Warszawa, Polska, Poland
+{: .notice--danger}
 
 ## Funding agency
 Norway Grants and EEA Grants, Norway contributes to reducing social and economic disparities and to strengthening bilateral relations with the beneficiary countries in Europe. Norway cooperates closely with the EU through the Agreement on the European Economic Area (EEA).
