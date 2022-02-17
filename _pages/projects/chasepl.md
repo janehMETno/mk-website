@@ -17,11 +17,10 @@ permalink: /chasepl/
 
 ## Main findings
  - Both bias-corrected and statistically downscaled data agree on a temperature increase over Poland by up to 4 °C towards the end of the 21st century.
+<p style="text-align:center;"><img src="https://metno.github.io/mk-website/assets/images/Screenshot%20from%202022-02-17%2019-11-36.png"><br></p>
+<em><font size=3> Comparison between the regional average temperature anomaly (°C) over Poland of a small ensemble of DD downscaled temperature projections (blue), and ESD downscaled values based on the full GCM ensemble (orange) and for the subset of models used for DD (red). The boxplots show the spread of averaged annual mean temperature anomalies over the period 2071-2100.</em>
 {: .notice--info}
 
-<p style="text-align:center;"><img src="https://metno.github.io/mk-website/assets/images/Screenshot%20from%202022-02-17%2019-11-36.png"></p>
-
-<em><font size=3> Comparison between the regional average temperature anomaly (°C) over Poland of a small ensemble of DD downscaled temperature projections (blue), and ESD downscaled values based on the full GCM ensemble (orange) and for the subset of models used for DD (red). The boxplots show the spread of averaged annual mean temperature anomalies over the period 2071-2100.</em>
 
 ## Partners
 - Institute for Agricultural and Forest Environment (IAFE), Polish Academy of Sciences
