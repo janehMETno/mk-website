@@ -7,6 +7,8 @@ main:
     url: /project/
   - title: Contact
     url : /contact/
+  - title: Data
+    url: /data/
   - title: Publications
     url : /publications/
   
@@ -28,7 +30,7 @@ page_links:
     - title: Privacy
       url : /privacy/
 
-  - title: External Links
+  - title: Additional Links
     children:
     - title: MET Norway
       url: https://met.no/
@@ -36,4 +38,6 @@ page_links:
       url : https://cryo.met.no
     - title : Open Climate Data Prototype
       url : https://ocdp.met.no
+    - title: Regional Climate in Norway
+      url: https://sites.google.com/met.no/downscaling/home?authuser=0
   
