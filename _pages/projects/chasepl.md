@@ -31,10 +31,10 @@ temperature anomalies over the period 2071-2100.
 - Warsaw University of Life Sciences – SGGW, Faculty of Civil and Environmental Engineering
   ul. Nowoursynowska 166
   02-787 Warszawa, Polska, Poland
-{: .notice--danger}
 
 ## Funding agency
 Norway Grants and EEA Grants, Norway contributes to reducing social and economic disparities and to strengthening bilateral relations with the beneficiary countries in Europe. Norway cooperates closely with the EU through the Agreement on the European Economic Area (EEA).
+{: .notice--warning}
 
 ## Related Publications
 
