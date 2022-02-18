@@ -87,7 +87,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <tr>
   <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/julia.jpeg"/> </center></td>
   <td align="justify" style ="border: none;">
-    <font size="3"> <strong> Julia Lutz</strong>, <em>Ph. D. in !!!</em><br><br>
+    <font size="3"> <strong> Julia Lutz</strong>, <em>Ph. D. in Meteorology</em><br><br>
     Dr. Julia Lutz is a young scientist at the division for model and climate analysis at the Norwegian Meteorological Institute in Oslo. Her main interests include statistical climate modelling and climate analysis.</font><br><br>
     <strong> Useful links</strong><br>
     <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=1081908"> Cristin </a>
