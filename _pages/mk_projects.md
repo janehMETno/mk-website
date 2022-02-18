@@ -51,7 +51,7 @@ The Coordinated Regional Downscaling Experiment within the World Climate Researc
   <td align="justify">
  The response of the hydrological system in India to climate change (INDICE) was funded by the Norwegian Research Council within the INDNOR program.
   <br>
- <a href="https://orcid.org/0000-0002-5969-4508"> ORCID </a>;<a href="https://docs.google.com/document/d/14Vnfk0DuEwSPCJgnTAwzx1woqk4TWoivlrS7tBFU2SA/edit?usp=sharing"> CV </a>; <a href="https://scholar.google.com/citations?user=KYAUZL4AAAAJ&hl=no"> Google Scholar </a>; <a href="https://app.cristin.no/search.jsf?t=%22Rasmus%20Benestad%22"> Cristin </a>
+ <a href="https://prosjektbanken.forskningsradet.no/en/project/FORISS/216546?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=date&sortOrder=desc&resultCount=30&offset=0&Prosjektleder=Miriam+Jackson"> Info </a>; <a href="https://app.cristin.no/search.jsf?t=%22Rasmus%20Benestad%22"> Cristin </a>
  </td>
  </tr>
  </table>
@@ -108,7 +108,7 @@ The Coordinated Regional Downscaling Experiment within the World Climate Researc
   <td width="25%" ><center> <img src="https://sites.google.com/view/r3-climate/home?authuser=0"/> </center></td>
   <td align="justify">
 Relevant, Reliable, and robust local scale climate projections for Norway. The main objective of the project is to develop and implement innovative, integrated approaches to produce reliable local-scale climate projections for communities and stakeholders in Norway. The secondary objectives are to engage with users and stakeholders in the co-production of climate understanding; tailor the provision of climate information to their needs and experience new ways that are relevant to their organizational structures and cultures. The project also focuses on using hybrid (physically and statistically) based approaches to downscale robust climate change signals from global climate models in a way that mitigates systematic biases over the Northeast Atlantic region; to develop decision-relevant climate information in collaboration with project stakeholders; and to demonstrate the added-value of the integrated approach from both the stakeholder and scientific perspectives.<br>
- <a href="https://lh5.googleusercontent.com/NrJjmpfe5pHIj1OHUgb2dwcxXWTxH4g4rjh8BmjqcC8UU91w7coYcPzTaAeEimKIbEaHng=w16383"> Website </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
+ <a href="https://lh5.googleusercontent.com/NrJjmpfe5pHIj1OHUgb2dwcxXWTxH4g4rjh8BmjqcC8UU91w7coYcPzTaAeEimKIbEaHng=w16383"> Website </a>;<a href="https://app.cristin.no/projects/show.jsf?id=531078"> Info </a>; <a href=""> Google Scholars </a>
  </td>
  </tr>
  </table>
