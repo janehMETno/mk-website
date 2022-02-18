@@ -50,7 +50,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 
 ---
 
-## Head of the Norwegian Climate Service Centre
+## Head of the Norwegian Centre for Climate Services
 <table>
  <tr>
  <td width="30%" style ="border: none;"><center> <img src="https://www.met.no/kss/_/image/e79d593b-fdeb-43eb-83c5-5516212bbdb1:08e2451b2ffcfb4a0c5c4a73990b72a6bb779316/width-400/anita-verpe-dyrrdal"/> </center></td> 
