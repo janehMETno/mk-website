@@ -97,7 +97,7 @@ The Coordinated Regional Downscaling Experiment within the World Climate Researc
   <td width="25%" ><center> <img src="http://serwer1557491.home.pl/autoinstalator/wordpress/wp-content/uploads/2015/09/cropped-strona-logo_2.jpg"/> </center></td>
   <td align="justify">
   Climate change impact assessment for selected sectors in Poland. This project aims at contributing to the improvement of understanding of climate change in Poland and its impacts on selected sectors in the country. It extended in numerous ways the state-of-the-art of the detection of change, projections of climate change and its impacts on water management, ecosystems and biodiversity, agriculture and food production.<br>
- <a href="http://chase-pl.pl/"> Website </a>;<a href="https://metno.github.io/mk-website/chasepl/" width="300"/> More </a>; <a href=""> Google Scholars </a>
+ <a href="http://chase-pl.pl/"> Website </a>;<a href="https://metno.github.io/mk-website/chasepl/"> Page Info</a>
  </td>
  </tr>
  </table>
