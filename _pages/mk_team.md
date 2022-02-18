@@ -72,10 +72,10 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <tr>
   <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/andreas.jpeg"/> </center></td>
   <td align="justify" style ="border: none;">
-  <font size="3"> <strong> Andreas Dobler, <em>Ph. D. in computer Science</em> </strong><br><br>
-    Dr. Dobler is a senior scientist ...</font><br><br>
+  <font size="3"> <strong> Andreas Dobler, <em>Ph. D. in Geosciences</em> </strong><br><br>
+    Dr. Dobler is a senior scientist with experience in regional climate modelling. A focus of his work is the development and application of dynamical, empirical and statistical models to provide climate data for impact modellers and the analysis of modelled and observational data in different geographic areas </font><br><br>
     <strong> Useful links</strong><br>
-    <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764212"> Cristin </a>
+    <a href="https://app.cristin.no/persons/show.jsf?id=764212"> Cristin </a>
  </td>
  </tr>
  </table>
