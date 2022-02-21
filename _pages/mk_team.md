@@ -56,7 +56,7 @@ excerpt: The model and climate analyses group involves highly qualified leading 
  <td width="30%" style ="border: none;"><center> <img src="https://www.met.no/kss/_/image/e79d593b-fdeb-43eb-83c5-5516212bbdb1:08e2451b2ffcfb4a0c5c4a73990b72a6bb779316/width-400/anita-verpe-dyrrdal"/> </center></td> 
    <td align="justify" valign="top" style ="border: none;">
     <font size="3"> <strong> Anita Verpe Dyrrdal, <em>Ph. D. in Meteorology</em> </strong><br><br>
-      Dr. Dyrrdal is a senior scientist at the Division for Climate and Model Analyses at the Norwegian Meteorological Institute and is the head of the Norwegian Climate Service Centre. Her main interests are: Methodologies for estimating extreme rainfall for planning and dimensioning of infrastructures.</font><br><br>
+      Dr. Dyrrdal is a senior scientist at the Division for Climate and Model Analyses at the Norwegian Meteorological Institute and is the head of the Norwegian Centre for Climate Services. Her main interests are: Extreme precipitation, specifically design rainfall for planning and design of infrastructure, climate information for adaptation purposes.</font><br><br>
  <strong> Useful links</strong><br>
      <a href = ""> Email: anitavd@met.no </a>;<a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>;<a href="https://klimaservicesenter.no/"> KSS </a>
  </td>
