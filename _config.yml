@@ -42,7 +42,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-523WK7865Q"
+    tracking_id: ""
     anonymize_ip: true
 
 include:
