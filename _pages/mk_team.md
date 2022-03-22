@@ -147,10 +147,10 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 <table>
  <tr>
   <td align="justify" style ="border: none;">
-  <font size = "3"><strong> Oskar A. Landgren </strong> <em>Ph. D. in ? </em><br><br>
-    Dr. Langren is a young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His primary area of interest and expertise are related to regional climate downscaling and sensitivity to climate change and extreme events in Norway and the Arctic.</font><br><br>
+  <font size = "3"><strong> Oskar A. Landgren </strong> <em>Ph.D. in meteorology, Civil Engineer, MSc in applied physics </em><br><br>
+    Dr. Langren is a young scientist at the Climate and Model Analysis group, Norwegian Meteorological Institute. His primary area of interest and expertise are related to regional climate modelling, climate variability, polar lows and climate change in Norway and the Arctic.</font><br><br>
  <strong> Useful links</strong><br>
-    Email: oskar.landgren@met.no; <a href="https://orcid.org/0000-0002-6264-8502"> ORCID </a>;<a href=""> CV </a>; <a href="https://scholar.google.no/citations?user=NCmMXecAAAAJ&hl=en"> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=619150"> Cristin </a>
+    Email: oskar.landgren@met.no; <a href="https://orcid.org/0000-0002-6264-8502">ORCID</a>;<a href="https://docs.google.com/document/d/1uVHGnrSJWvfQdwR4bZ3rihQi4SPmbNJuSsE4b6nf39o/edit?usp=sharing">CV</a>; <a href="https://scholar.google.no/citations?user=NCmMXecAAAAJ&hl=en">Google Scholar</a>; <a href="https://app.cristin.no/persons/show.jsf?id=619150"> Cristin</a>
  </td>
  <td width="30%" style ="border: none;"><center> <img src="https://www.mn.uio.no/geo/forskning/aktuelt/arrangementer/disputaser/2019/pdf/oskar-landgren-150px.jpg"/> </center></td>
   </tr>
