@@ -34,14 +34,14 @@ excerpt: The model and climate analyses group involves highly qualified leading 
 
 ---
 
-## Deputy
+## Deputy head of department
 <table>
  <tr>
   <td align="justify" style ="border: none;">
-  <font size = "3"> <strong> Jan Erik Haugen, <em>Ph. D. in Physics</em> </strong><br><br>
-    Dr. Haugen is a senior scientist and assistant director of the division for Climate and Model Analyses at the Norwegian Meteorological Insitute. ... </font><br><br>
+  <font size = "3"> <strong> Jan Erik Haugen, <em>Ph. D. in Meteorology</em> </strong><br><br>
+    Dr. Haugen is a senior scientist in the Climate and Model Analyses Division at the Norwegian Meteorological Institute. His main research topics are numerical weather prediction and climate modeling in the Nordic Arctic, evaluation of weather parameters and quantification of regional climate change. </font><br><br>
  <strong> Useful links</strong><br>
-    <a href=""> Email:janeh@met.no </a>; <a href=""> ORCID </a>;<a href=""> CV </a>; <a href=""> Google Scholar </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764220"> Cristin </a>
+    <a href=""> Email:janeh@met.no </a>; <a href="https://orcid.org/0000-0003-1040-1601"> ORCID </a>; <a href="https://app.cristin.no/persons/show.jsf?id=764220"> Cristin </a>; <a href="https://www.researchgate.net/profile/Jan-Haugen "> ResearchGate </a>
  </td>
  <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/janerik.jpeg"/> </center></td>
   </tr>
